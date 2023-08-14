@@ -1,0 +1,330 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230725 - 143315
+  m_EditorClassIdentifier: 
+  m_name: Session 20230725-143315
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 25/07/2023 2:33:15 CH
+  m_terrainWidth: 256
+  m_terrainDepth: 256
+  m_terrainHeight: 256
+  m_seaLevel: 6.25
+  m_spawnDensity: 0.6
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 256'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230725 - 143316
+    m_operationDateTime: 25/07/2023 2:33:18 CH
+    scriptableObjectAssetGUID: c62accaa3aebb48418a3eb6b4b4a46cb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Mesa 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230725 - 143316
+    m_operationDateTime: 25/07/2023 2:34:39 CH
+    scriptableObjectAssetGUID: 67a410b738aa6a846963b5cc719363c0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - BEPR-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230725 - 143316
+    m_operationDateTime: 25/07/2023 2:35:00 CH
+    scriptableObjectAssetGUID: a34ac479c8000f24aa9d926ea7a07c09
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230725 - 143316
+    m_operationDateTime: 25/07/2023 2:42:47 CH
+    scriptableObjectAssetGUID: ad9134c5bc6dc5b468471f3c3f311ff1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230725 - 143316 0-1-0 Terrain
+    - Terrain_0_0-20230725 - 143316 0-0-0 Terrain
+    - Terrain_0_0-20230725 - 143316 1-0-0 Terrain
+    - Terrain_0_0-20230725 - 143316 1-1-0 Terrain
+    m_operationDateTime: 25/07/2023 2:45:18 CH
+    scriptableObjectAssetGUID: d63b8b4f6b6dc0043bf9359affb2c9ea
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230725 - 143316
+    m_operationDateTime: 25/07/2023 2:49:06 CH
+    scriptableObjectAssetGUID: f243e461d02e9d04ba0c7785b0f4b818
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230725 - 143316
+    m_operationDateTime: 25/07/2023 3:21:30 CH
+    scriptableObjectAssetGUID: 9895f5250cec39b4b9ab6661ca65a172
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: c9ef1c552fe5afc4898c460a48f14585
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 24.859755
+  - guid: 9ac90412956662c4e9f5743d4d83b506
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 0fbefd66dc45206489f336281df95418
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 56514b6329cdbbf4e8b0d8c73ace3423
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: d635483d5ea2e19439d38665f58f1c65
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 35485efab876c2a4b9071600efbbc05c
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 89ccf812f64f4024a9f001f7d764f5a3
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 9829b5b96100bfc4ab4e82945b3bea10
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: dd4478140382e8e4489c013d3c64f469
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 2c24853f9cc009740ae4ac88a945768e
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 5198589d9aaa2a440b26cafcb725c8de
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 47fd94c08e00b1b4aa8dff8a405d7b92
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 4a0bdc59d6659f34b9ee7de434e1cf8a
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 7f5757b7a6d8a2b4090f2ceb30bcf699
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 8bc040f662d935e4ca3525e6056457a1
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 3eefad35fb4135a408a5de594171128f
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 202fb1e9ce8926e4e8674cf48638ebfd
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 0
+  - guid: 4c97248bbda54224f8ea14a86d92b5ac
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 24.859755
+  - guid: ed65348b4af864444a8b9ffa70154a60
+    isWorldmap: 0
+    recalculate: 0
+    min: 2.1406577
+    max: 24.648813
+  - guid: 4ce06676ecbd66d498fc851870f0ac56
+    isWorldmap: 0
+    recalculate: 0
+    min: 12.859571
+    max: 22.60972
+  - guid: 8a3279460e0f30f489dd1bff515379f7
+    isWorldmap: 0
+    recalculate: 0
+    min: 12.883009
+    max: 23.765987
+  - guid: 8e0184b3a755c2e468b987b2ca03b3a2
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 24.859755
+  - guid: bda9886845ccf8645aca6ac7b1024e48
+    isWorldmap: 0
+    recalculate: 0
+    min: 4.1406884
+    max: 23.914427
+  - guid: 71081236c2a59a04f8076316f2f2d31d
+    isWorldmap: 0
+    recalculate: 0
+    min: 11.789243
+    max: 22.60972
+  - guid: 7b26e935120b3d642a500aba61688def
+    isWorldmap: 0
+    recalculate: 0
+    min: 11.718929
+    max: 24.797253
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_3584_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3584_0
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3584_0
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_3072_4
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_4
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_4
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_512_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_512_0
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_512_0
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_4
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_4
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_4
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_3072_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_1
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_1
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_5
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_2
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_2048_-0,5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_2048_-0,5
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_2048_-0,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_14
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_14
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_14
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_3072_0,3
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_0,3
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_0,3
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_512_-0,5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_512_-0,5
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_512_-0,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_0,5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_0,5
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTree_System.Collections.Generic.List`1[System.Int32]_0,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_LayerGameObject_3072_0,5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_0,5
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_LayerGameObject_3072_0,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_RadiusTag_Small Rock_3
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTag_Small Rock_3
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTag_Small Rock_3
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230725 - 143316_RadiusTag_Large Rock_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTag_Large Rock_1
+    fullPath: D:/UnityPackage/New Project/My project/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230725
+      - 143316/Terrain_0_0-20230725 - 143316_RadiusTag_Large Rock_1
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}
