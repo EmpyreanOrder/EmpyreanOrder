@@ -1,0 +1,1908 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c477de684ee10c4082f9fddf19a75ce, type: 3}
+  m_Name: BEPR Palette
+  m_EditorClassIdentifier: 
+  m_paletteEntryIDCount: -2147483175
+  m_paletteEntries:
+  - m_name: Divot_05
+    m_id: -2147483647
+    m_guid: f0acac54110a63840aa4469270c86e33
+    m_object: {fileID: 100002, guid: f0acac54110a63840aa4469270c86e33, type: 3}
+  - m_name: Pebbles_Grp_01
+    m_id: -2147483646
+    m_guid: 39d06bfe317fbff4c96469796c10a536
+    m_object: {fileID: 7158508891001519882, guid: 39d06bfe317fbff4c96469796c10a536, type: 3}
+  - m_name: Pebbles_Grp_02
+    m_id: -2147483645
+    m_guid: 0bcde791f4ee2d4429825aa2924aaece
+    m_object: {fileID: 2527267967940246058, guid: 0bcde791f4ee2d4429825aa2924aaece, type: 3}
+  - m_name: Pebbles_Grp_03
+    m_id: -2147483644
+    m_guid: dafd460c74f35ab438cb855baeb835a2
+    m_object: {fileID: 431683072637698179, guid: dafd460c74f35ab438cb855baeb835a2, type: 3}
+  - m_name: Pebbles_Grp_04
+    m_id: -2147483643
+    m_guid: e6fcf5f6f84586749a49b739e3279107
+    m_object: {fileID: 4172489070058885431, guid: e6fcf5f6f84586749a49b739e3279107, type: 3}
+  - m_name: Pebbles_Grp_05
+    m_id: -2147483642
+    m_guid: ab0a7705a6185454e96815510bc7bed7
+    m_object: {fileID: 4697451084951472409, guid: ab0a7705a6185454e96815510bc7bed7, type: 3}
+  - m_name: Pebbles_Grp_06
+    m_id: -2147483641
+    m_guid: 9f5cce68834f7124e8be9ea29fd7898a
+    m_object: {fileID: 7466608340955666497, guid: 9f5cce68834f7124e8be9ea29fd7898a, type: 3}
+  - m_name: Stone_03
+    m_id: -2147483640
+    m_guid: 4245c143fcb01d5459c6f8e91e1e259a
+    m_object: {fileID: 814980824711012461, guid: 4245c143fcb01d5459c6f8e91e1e259a, type: 3}
+  - m_name: Stone_Grp_04
+    m_id: -2147483639
+    m_guid: d260bc74a43bbef43ad4ebdf7eda3343
+    m_object: {fileID: 6079886273824273372, guid: d260bc74a43bbef43ad4ebdf7eda3343, type: 3}
+  - m_name: Stone_Grp_01
+    m_id: -2147483638
+    m_guid: bea276c90ad296b4f895342970f18c02
+    m_object: {fileID: 3311910657416141881, guid: bea276c90ad296b4f895342970f18c02, type: 3}
+  - m_name: Stone_Grp_02
+    m_id: -2147483637
+    m_guid: 55ac8cea1203c6642b747d5aa3d7a8ed
+    m_object: {fileID: 4504801448200427189, guid: 55ac8cea1203c6642b747d5aa3d7a8ed, type: 3}
+  - m_name: Stone_Grp_03
+    m_id: -2147483636
+    m_guid: a435a7d438df01449971cfa50e89a40f
+    m_object: {fileID: 946506523251009255, guid: a435a7d438df01449971cfa50e89a40f, type: 3}
+  - m_name: Stone_01
+    m_id: -2147483635
+    m_guid: ed713d46a81e4f64987efaf908862738
+    m_object: {fileID: 674689203579953558, guid: ed713d46a81e4f64987efaf908862738, type: 3}
+  - m_name: Detail_Pebbles_14
+    m_id: -2147483634
+    m_guid: dce82aec6c4d04240afdc26cab7474f1
+    m_object: {fileID: 5646502433601208945, guid: dce82aec6c4d04240afdc26cab7474f1, type: 3}
+  - m_name: Stone_Pile_01
+    m_id: -2147483633
+    m_guid: 104e5d7bd2a49ac4b99018a2938fa9f7
+    m_object: {fileID: 7008113350275154164, guid: 104e5d7bd2a49ac4b99018a2938fa9f7, type: 3}
+  - m_name: Stone_Pile_03
+    m_id: -2147483632
+    m_guid: 4e115d408af145741af1a00e07a319a0
+    m_object: {fileID: 4496207454314286193, guid: 4e115d408af145741af1a00e07a319a0, type: 3}
+  - m_name: Rock_01
+    m_id: -2147483631
+    m_guid: d65aef26594da8c488f9ed20bb70b3bf
+    m_object: {fileID: 1483756382405175100, guid: d65aef26594da8c488f9ed20bb70b3bf, type: 3}
+  - m_name: Rock_04
+    m_id: -2147483630
+    m_guid: fab733971fefdbd4cad6ff1a2f8e2a43
+    m_object: {fileID: 1363342594655083999, guid: fab733971fefdbd4cad6ff1a2f8e2a43, type: 3}
+  - m_name: Rock_02
+    m_id: -2147483629
+    m_guid: 254a96ac4b785c040996a548e22a311f
+    m_object: {fileID: 568352405704425043, guid: 254a96ac4b785c040996a548e22a311f, type: 3}
+  - m_name: Rock_03
+    m_id: -2147483628
+    m_guid: 26247b398a05b124fa5d848a227f8905
+    m_object: {fileID: 6273889758388119462, guid: 26247b398a05b124fa5d848a227f8905, type: 3}
+  - m_name: Rock_05
+    m_id: -2147483627
+    m_guid: db5ad8a4c0b52b64ea2b72834f794741
+    m_object: {fileID: 3531058783397272683, guid: db5ad8a4c0b52b64ea2b72834f794741, type: 3}
+  - m_name: Rock_06
+    m_id: -2147483626
+    m_guid: dfbf65bef8809124983461fba57c6640
+    m_object: {fileID: 83736873862211025, guid: dfbf65bef8809124983461fba57c6640, type: 3}
+  - m_name: Stone_Pile_02
+    m_id: -2147483625
+    m_guid: 203be5f021b25234fa5f91c1876b9fee
+    m_object: {fileID: 3697043559802637898, guid: 203be5f021b25234fa5f91c1876b9fee, type: 3}
+  - m_name: Chalk_Rock_01
+    m_id: -2147483624
+    m_guid: d6e263c64374d034d97d235c68ab9ec8
+    m_object: {fileID: 1885450067990458551, guid: d6e263c64374d034d97d235c68ab9ec8, type: 3}
+  - m_name: Stone_Pile_03_Sand
+    m_id: -2147483623
+    m_guid: 9866ea07d4767dd49a2c9e1943eeb896
+    m_object: {fileID: 6588228106194827115, guid: 9866ea07d4767dd49a2c9e1943eeb896, type: 3}
+  - m_name: Stone_Pile_04
+    m_id: -2147483622
+    m_guid: 2a8340e858e80ac4696fd1189274f050
+    m_object: {fileID: 3755463994364915770, guid: 2a8340e858e80ac4696fd1189274f050, type: 3}
+  - m_name: Pebbles_Grp_03_Moss
+    m_id: -2147483621
+    m_guid: b9395a30e5a43e6408e3126a23daa435
+    m_object: {fileID: 6813681904001961849, guid: b9395a30e5a43e6408e3126a23daa435, type: 3}
+  - m_name: Test Mask_Terrain
+    m_id: -2147483620
+    m_guid: db916b8c0f0278e419eb38dff64baf42
+    m_object: {fileID: 2800000, guid: db916b8c0f0278e419eb38dff64baf42, type: 3}
+  - m_name: Wood_03_b
+    m_id: -2147483619
+    m_guid: 0d836509c7e70c14caa339650dba8eb7
+    m_object: {fileID: 1046631609327579801, guid: 0d836509c7e70c14caa339650dba8eb7, type: 3}
+  - m_name: Stone_13
+    m_id: -2147483618
+    m_guid: 7fe927c4f57bc28459544e662329cee0
+    m_object: {fileID: 2717530752556507312, guid: 7fe927c4f57bc28459544e662329cee0, type: 3}
+  - m_name: Stone_03
+    m_id: -2147483617
+    m_guid: 5e6710c635277c04f820f3d7107b7804
+    m_object: {fileID: 7547543591826832218, guid: 5e6710c635277c04f820f3d7107b7804, type: 3}
+  - m_name: Conifer_01
+    m_id: -2147483616
+    m_guid: 497a4bcdc828f9c439cfc017361646cb
+    m_object: {fileID: 100000, guid: 497a4bcdc828f9c439cfc017361646cb, type: 3}
+  - m_name: SandStone_Surface_01
+    m_id: -2147483615
+    m_guid: e25e3a64e88c9af4fa47cbecb264fb3e
+    m_object: {fileID: 5763905997123916998, guid: e25e3a64e88c9af4fa47cbecb264fb3e, type: 3}
+  - m_name: Stone_04
+    m_id: -2147483614
+    m_guid: 616c0083fcb9f4342af103d3192c9fc5
+    m_object: {fileID: 541624431215540733, guid: 616c0083fcb9f4342af103d3192c9fc5, type: 3}
+  - m_name: Wood_03_a
+    m_id: -2147483613
+    m_guid: 7fd25770c5e820f42bf39201eeefa4c8
+    m_object: {fileID: 5875915558310139497, guid: 7fd25770c5e820f42bf39201eeefa4c8, type: 3}
+  - m_name: Cliff_Side_02
+    m_id: -2147483612
+    m_guid: a7e8b0cf9d69f7445bce1bb23f0ac16d
+    m_object: {fileID: 2167900040818533850, guid: a7e8b0cf9d69f7445bce1bb23f0ac16d, type: 3}
+  - m_name: Root_01_A_Mesh
+    m_id: -2147483611
+    m_guid: 4656831e90480e840a8c9638f10277ff
+    m_object: {fileID: 100000, guid: 4656831e90480e840a8c9638f10277ff, type: 3}
+  - m_name: Stone_11
+    m_id: -2147483610
+    m_guid: 793ec2c97bbe0834c95a0c3ee69d2439
+    m_object: {fileID: 6596269278048144116, guid: 793ec2c97bbe0834c95a0c3ee69d2439, type: 3}
+  - m_name: Conifer_04_a
+    m_id: -2147483609
+    m_guid: 47c499b378082cb42a3f36aba316b466
+    m_object: {fileID: 100000, guid: 47c499b378082cb42a3f36aba316b466, type: 3}
+  - m_name: Cliff Mask
+    m_id: -2147483608
+    m_guid: f86201ddb08fdba48924fa28f66a0a03
+    m_object: {fileID: 2800000, guid: f86201ddb08fdba48924fa28f66a0a03, type: 3}
+  - m_name: Stone_Pile_04_Sand
+    m_id: -2147483607
+    m_guid: d869cd7b26b10324c99b99ea6c8f9cab
+    m_object: {fileID: 4488329390391109815, guid: d869cd7b26b10324c99b99ea6c8f9cab, type: 3}
+  - m_name: Stone_04
+    m_id: -2147483606
+    m_guid: 616c0083fcb9f4342af103d3192c9fc5
+    m_object: {fileID: 541624431215540733, guid: 616c0083fcb9f4342af103d3192c9fc5, type: 3}
+  - m_name: Stone_06
+    m_id: -2147483605
+    m_guid: 4526f0e6154c1024b88989eacdbea5d9
+    m_object: {fileID: 6120470039381126907, guid: 4526f0e6154c1024b88989eacdbea5d9, type: 3}
+  - m_name: Dirt_Surface_01
+    m_id: -2147483604
+    m_guid: 988088b344b3a7e4ba673573d47a351d
+    m_object: {fileID: 1031185401775461628, guid: 988088b344b3a7e4ba673573d47a351d, type: 3}
+  - m_name: Stone_03
+    m_id: -2147483603
+    m_guid: 5e6710c635277c04f820f3d7107b7804
+    m_object: {fileID: 7547543591826832218, guid: 5e6710c635277c04f820f3d7107b7804, type: 3}
+  - m_name: Rock_06_Sand
+    m_id: -2147483602
+    m_guid: 0aa9b62ec818b9e4ca2e93e31a3b1f59
+    m_object: {fileID: 3232141417024798877, guid: 0aa9b62ec818b9e4ca2e93e31a3b1f59, type: 3}
+  - m_name: Rock_04_Sand
+    m_id: -2147483601
+    m_guid: f5f33f4e961907449887a280db2659fd
+    m_object: {fileID: 1363342594655083999, guid: f5f33f4e961907449887a280db2659fd, type: 3}
+  - m_name: Stone_15
+    m_id: -2147483600
+    m_guid: c27e80c56f53f5b44a7110e5ede1fcea
+    m_object: {fileID: 2057542774179774735, guid: c27e80c56f53f5b44a7110e5ede1fcea, type: 3}
+  - m_name: Stone_03
+    m_id: -2147483599
+    m_guid: 4245c143fcb01d5459c6f8e91e1e259a
+    m_object: {fileID: 814980824711012461, guid: 4245c143fcb01d5459c6f8e91e1e259a, type: 3}
+  - m_name: Stone_01
+    m_id: -2147483598
+    m_guid: ed713d46a81e4f64987efaf908862738
+    m_object: {fileID: 674689203579953558, guid: ed713d46a81e4f64987efaf908862738, type: 3}
+  - m_name: SandStone_Surface_01
+    m_id: -2147483597
+    m_guid: e25e3a64e88c9af4fa47cbecb264fb3e
+    m_object: {fileID: 5763905997123916998, guid: e25e3a64e88c9af4fa47cbecb264fb3e, type: 3}
+  - m_name: Stone_07
+    m_id: -2147483596
+    m_guid: bcebfa3fb6061454eba39588a82d2b21
+    m_object: {fileID: 6966031068388132314, guid: bcebfa3fb6061454eba39588a82d2b21, type: 3}
+  - m_name: Stone_02_Sand
+    m_id: -2147483595
+    m_guid: c1fbb1d7055e3ce48abfcce82688a301
+    m_object: {fileID: 4870816004843246857, guid: c1fbb1d7055e3ce48abfcce82688a301, type: 3}
+  - m_name: Stone_16
+    m_id: -2147483594
+    m_guid: 870788aeba1509142973bded059e334b
+    m_object: {fileID: 767894495104006199, guid: 870788aeba1509142973bded059e334b, type: 3}
+  - m_name: Stone_02
+    m_id: -2147483593
+    m_guid: 93f25d14127e1c84ebcb73f94a6e0302
+    m_object: {fileID: 7392439044241875919, guid: 93f25d14127e1c84ebcb73f94a6e0302, type: 3}
+  - m_name: Stone_11
+    m_id: -2147483592
+    m_guid: 793ec2c97bbe0834c95a0c3ee69d2439
+    m_object: {fileID: 6596269278048144116, guid: 793ec2c97bbe0834c95a0c3ee69d2439, type: 3}
+  - m_name: Stone_08
+    m_id: -2147483591
+    m_guid: 2c0773219ca14aa4a8f8cadba4e2ff0f
+    m_object: {fileID: 6157474172157020377, guid: 2c0773219ca14aa4a8f8cadba4e2ff0f, type: 3}
+  - m_name: Stone_09
+    m_id: -2147483590
+    m_guid: 8bd08366d1afe5e4780c11b50c3ffbdc
+    m_object: {fileID: 4107097730921959970, guid: 8bd08366d1afe5e4780c11b50c3ffbdc, type: 3}
+  - m_name: Rock_02_Sand
+    m_id: -2147483589
+    m_guid: beab36abfd0be974886c1b3309a862c6
+    m_object: {fileID: 1604467059803769267, guid: beab36abfd0be974886c1b3309a862c6, type: 3}
+  - m_name: Rock_01_Sand
+    m_id: -2147483588
+    m_guid: 67c065e3b43bc8740b524ef10eb6d050
+    m_object: {fileID: 1950692664253999944, guid: 67c065e3b43bc8740b524ef10eb6d050, type: 3}
+  - m_name: Stone_Grp_01
+    m_id: -2147483587
+    m_guid: bea276c90ad296b4f895342970f18c02
+    m_object: {fileID: 3311910657416141881, guid: bea276c90ad296b4f895342970f18c02, type: 3}
+  - m_name: Stone_Grp_02
+    m_id: -2147483586
+    m_guid: 55ac8cea1203c6642b747d5aa3d7a8ed
+    m_object: {fileID: 4504801448200427189, guid: 55ac8cea1203c6642b747d5aa3d7a8ed, type: 3}
+  - m_name: Stone_Grp_03
+    m_id: -2147483585
+    m_guid: a435a7d438df01449971cfa50e89a40f
+    m_object: {fileID: 946506523251009255, guid: a435a7d438df01449971cfa50e89a40f, type: 3}
+  - m_name: Stone_14
+    m_id: -2147483584
+    m_guid: a3c6c5cbdead4f44d8c3f06b464b5d81
+    m_object: {fileID: 8232497721668594026, guid: a3c6c5cbdead4f44d8c3f06b464b5d81, type: 3}
+  - m_name: CraterMask
+    m_id: -2147483583
+    m_guid: 37301be45e48cb944bc889ce36cda677
+    m_object: {fileID: 2800000, guid: 37301be45e48cb944bc889ce36cda677, type: 3}
+  - m_name: CraterFlattenMask
+    m_id: -2147483582
+    m_guid: d0ddd240b578a744e9e2234385fccfe2
+    m_object: {fileID: 2800000, guid: d0ddd240b578a744e9e2234385fccfe2, type: 3}
+  - m_name: CraterMask 1
+    m_id: -2147483581
+    m_guid: d71e8ee200c22e1409f468a9c582fbf6
+    m_object: {fileID: 2800000, guid: d71e8ee200c22e1409f468a9c582fbf6, type: 3}
+  - m_name: Stone_Pile_02_Sand
+    m_id: -2147483580
+    m_guid: cb80a0051b4516e449a77e437b5085aa
+    m_object: {fileID: 8734326095302103388, guid: cb80a0051b4516e449a77e437b5085aa, type: 3}
+  - m_name: Rock_03_Sand
+    m_id: -2147483579
+    m_guid: 1dbfde74f42bca347807c9cb3614d82d
+    m_object: {fileID: 6273889758388119462, guid: 1dbfde74f42bca347807c9cb3614d82d, type: 3}
+  - m_name: Rock_05_Sand
+    m_id: -2147483578
+    m_guid: 73c69847074d25640b7cd8639f36d625
+    m_object: {fileID: 3531058783397272683, guid: 73c69847074d25640b7cd8639f36d625, type: 3}
+  - m_name: Crater Mask Part 4 Electric Bogallo
+    m_id: -2147483577
+    m_guid: 71af972bd89b4cb4fb667db9734f24e0
+    m_object: {fileID: 2800000, guid: 71af972bd89b4cb4fb667db9734f24e0, type: 3}
+  - m_name: Small Cliff Mask
+    m_id: -2147483576
+    m_guid: ec45beaaa16293b45bb6676ca08f411b
+    m_object: {fileID: 2800000, guid: ec45beaaa16293b45bb6676ca08f411b, type: 3}
+  - m_name: Stone_Pile_04_Moss
+    m_id: -2147483575
+    m_guid: 566a78383b9fa834db5ce88755cd6b14
+    m_object: {fileID: 6025420744467975373, guid: 566a78383b9fa834db5ce88755cd6b14, type: 3}
+  - m_name: Rock_06_Moss
+    m_id: -2147483574
+    m_guid: fd2c6ca9351688a4ba690e075446943b
+    m_object: {fileID: 2037755204212681507, guid: fd2c6ca9351688a4ba690e075446943b, type: 3}
+  - m_name: Stone_Pile_01_Moss
+    m_id: -2147483573
+    m_guid: d0630b9b0ca6bcf4e807d41a4b376060
+    m_object: {fileID: 4093403823709676264, guid: d0630b9b0ca6bcf4e807d41a4b376060, type: 3}
+  - m_name: SmallCliff2Mask
+    m_id: -2147483572
+    m_guid: ae79ddf8b1c8f084182aaf678d45ce8f
+    m_object: {fileID: 2800000, guid: ae79ddf8b1c8f084182aaf678d45ce8f, type: 3}
+  - m_name: Stone_Pile_02_Moss
+    m_id: -2147483571
+    m_guid: 8e63cca0a3a1e364ab3966688e8bd80a
+    m_object: {fileID: 4600622559952941288, guid: 8e63cca0a3a1e364ab3966688e8bd80a, type: 3}
+  - m_name: Large Cliff And Wizard Tower Mask 2
+    m_id: -2147483570
+    m_guid: e31ec97875a2cca4bb4b386e00dc8036
+    m_object: {fileID: 2800000, guid: e31ec97875a2cca4bb4b386e00dc8036, type: 3}
+  - m_name: Large Cliff And Wizard Tower Mask 1
+    m_id: -2147483569
+    m_guid: debdad4dd3660244588d160967c074b4
+    m_object: {fileID: 2800000, guid: debdad4dd3660244588d160967c074b4, type: 3}
+  - m_name: MageTower
+    m_id: -2147483568
+    m_guid: f9809cad9cb368b4fa20fe088eb1dd43
+    m_object: {fileID: 5665991362055125666, guid: f9809cad9cb368b4fa20fe088eb1dd43, type: 3}
+  - m_name: Brick_05
+    m_id: -2147483567
+    m_guid: 485f1c9682a7b674180f6436f37d809d
+    m_object: {fileID: 6877182811955730545, guid: 485f1c9682a7b674180f6436f37d809d, type: 3}
+  - m_name: Brick_03
+    m_id: -2147483566
+    m_guid: 8a0306aea02ac1b42b50da3af79c3462
+    m_object: {fileID: 297058734838762582, guid: 8a0306aea02ac1b42b50da3af79c3462, type: 3}
+  - m_name: Brick_02
+    m_id: -2147483565
+    m_guid: 01c4881e654b8f746838fa812a7a3d28
+    m_object: {fileID: 5354981326822112864, guid: 01c4881e654b8f746838fa812a7a3d28, type: 3}
+  - m_name: Brick_01
+    m_id: -2147483564
+    m_guid: 366c9e6c0cfc7564da55046f0efe7c70
+    m_object: {fileID: 4418238650697889518, guid: 366c9e6c0cfc7564da55046f0efe7c70, type: 3}
+  - m_name: Brick_07
+    m_id: -2147483563
+    m_guid: 57f23703a0dfa214a8bbe32f04b09b90
+    m_object: {fileID: 7946384286575317406, guid: 57f23703a0dfa214a8bbe32f04b09b90, type: 3}
+  - m_name: Brick_06
+    m_id: -2147483562
+    m_guid: f61bae28edd9cc542a9c9ba57bf6d738
+    m_object: {fileID: 4189521909474545612, guid: f61bae28edd9cc542a9c9ba57bf6d738, type: 3}
+  - m_name: Brick_04
+    m_id: -2147483561
+    m_guid: 05e86fc98691b994eaba4553c2f3a028
+    m_object: {fileID: 2852119244326714375, guid: 05e86fc98691b994eaba4553c2f3a028, type: 3}
+  - m_name: Divot_01
+    m_id: -2147483560
+    m_guid: fca2ad8378557d54094f999e23dd34af
+    m_object: {fileID: 100000, guid: fca2ad8378557d54094f999e23dd34af, type: 3}
+  - m_name: Cliff_Side_02_Sand
+    m_id: -2147483559
+    m_guid: 37244e879f6eab44fb32780d9549957a
+    m_object: {fileID: 2167900040818533850, guid: 37244e879f6eab44fb32780d9549957a, type: 3}
+  - m_name: Bridge_02_b
+    m_id: -2147483558
+    m_guid: 34b299e46f0c96a4e923637078c956fb
+    m_object: {fileID: 4150536170694506380, guid: 34b299e46f0c96a4e923637078c956fb, type: 3}
+  - m_name: GWood_Sand_06
+    m_id: -2147483557
+    m_guid: 4d19e050395d0924d82677e8dba2b514
+    m_object: {fileID: 8150582047591408260, guid: 4d19e050395d0924d82677e8dba2b514, type: 3}
+  - m_name: Large Cliff And Wizard Tower Mask 4(test)
+    m_id: -2147483556
+    m_guid: f93a507ef64b3fc4ab793e4b33ca041b
+    m_object: {fileID: 2800000, guid: f93a507ef64b3fc4ab793e4b33ca041b, type: 3}
+  - m_name: Large Cliff And Wizard Tower Mask 5(test).png
+    m_id: -2147483555
+    m_guid: bd4b7e3fda59dd544a2a0720c20db50a
+    m_object: {fileID: 2800000, guid: bd4b7e3fda59dd544a2a0720c20db50a, type: 3}
+  - m_name: River Bridge Mask
+    m_id: -2147483554
+    m_guid: 1508e59be94d85f44a007dafb0cb30af
+    m_object: {fileID: 2800000, guid: 1508e59be94d85f44a007dafb0cb30af, type: 3}
+  - m_name: Bridge_01
+    m_id: -2147483553
+    m_guid: 3622f57da4308c34790c91eaddf1e9ba
+    m_object: {fileID: 5954681536756317764, guid: 3622f57da4308c34790c91eaddf1e9ba, type: 3}
+  - m_name: Large Bridge Mask
+    m_id: -2147483552
+    m_guid: ed5f489317334e44883781254fc9be19
+    m_object: {fileID: 2800000, guid: ed5f489317334e44883781254fc9be19, type: 3}
+  - m_name: Bridge_02
+    m_id: -2147483551
+    m_guid: dd300741d1725f24ba3255cab6bc3edc
+    m_object: {fileID: 9152979768854193304, guid: dd300741d1725f24ba3255cab6bc3edc, type: 3}
+  - m_name: Wall Shelf Spawner
+    m_id: -2147483550
+    m_guid: c021421e2b11b284fa687744dd2e9c39
+    m_object: {fileID: 4293953107456025897, guid: c021421e2b11b284fa687744dd2e9c39, type: 3}
+  - m_name: Stone House
+    m_id: -2147483549
+    m_guid: ac8ededeed4d1c44fba4423329d83ad9
+    m_object: {fileID: 9141481852473529216, guid: ac8ededeed4d1c44fba4423329d83ad9, type: 3}
+  - m_name: Castle_Tower
+    m_id: -2147483548
+    m_guid: 6e7e2b8130ff95f4cbc52c8cd5cd9cde
+    m_object: {fileID: 8720449748188788422, guid: 6e7e2b8130ff95f4cbc52c8cd5cd9cde, type: 3}
+  - m_name: Bed_01
+    m_id: -2147483547
+    m_guid: 190d9dd614bafa74c945112675d4bf9b
+    m_object: {fileID: 4020051457890976621, guid: 190d9dd614bafa74c945112675d4bf9b, type: 3}
+  - m_name: Bed_02_a
+    m_id: -2147483546
+    m_guid: a7b9c58e2a606864ba76c877ab0f1529
+    m_object: {fileID: 7615953388198877938, guid: a7b9c58e2a606864ba76c877ab0f1529, type: 3}
+  - m_name: 'Bed_02_b '
+    m_id: -2147483545
+    m_guid: c61089a3561399948a05b2a975451e7b
+    m_object: {fileID: 5967171292050975776, guid: c61089a3561399948a05b2a975451e7b, type: 3}
+  - m_name: Bed_02_c
+    m_id: -2147483544
+    m_guid: fcbd2fb206dab8d4f9467fdbc8e0057e
+    m_object: {fileID: 2627504090173483667, guid: fcbd2fb206dab8d4f9467fdbc8e0057e, type: 3}
+  - m_name: Axe_01
+    m_id: -2147483543
+    m_guid: 67e0e3ae53f8edd458539e3ffeb9af04
+    m_object: {fileID: 2486383321456421844, guid: 67e0e3ae53f8edd458539e3ffeb9af04, type: 3}
+  - m_name: Wall_Shield_01
+    m_id: -2147483542
+    m_guid: 65356f89e343dbd45808ab672b77ddf5
+    m_object: {fileID: 6556758878580818074, guid: 65356f89e343dbd45808ab672b77ddf5, type: 3}
+  - m_name: Chest_02
+    m_id: -2147483541
+    m_guid: bdbf62ba4fd5c3f4ca04cf0f3ca1353b
+    m_object: {fileID: 3094908755291957339, guid: bdbf62ba4fd5c3f4ca04cf0f3ca1353b, type: 3}
+  - m_name: WoodenChest_01
+    m_id: -2147483540
+    m_guid: e1dc74c6a6b4e3f4c93a7034dad11ec2
+    m_object: {fileID: 8220512579061317268, guid: e1dc74c6a6b4e3f4c93a7034dad11ec2, type: 3}
+  - m_name: Candle_01
+    m_id: -2147483539
+    m_guid: e82053a6a9d14df49bae2f756059e4fb
+    m_object: {fileID: 8351740132288310440, guid: e82053a6a9d14df49bae2f756059e4fb, type: 3}
+  - m_name: Candle_02
+    m_id: -2147483538
+    m_guid: 482ae260181d86945839cefd937a1219
+    m_object: {fileID: 4946070950000513981, guid: 482ae260181d86945839cefd937a1219, type: 3}
+  - m_name: Candle_03
+    m_id: -2147483537
+    m_guid: edc1bbc3c448de24097d19c6d46d9b5e
+    m_object: {fileID: 1039389164200597494, guid: edc1bbc3c448de24097d19c6d46d9b5e, type: 3}
+  - m_name: Candle_04
+    m_id: -2147483536
+    m_guid: 69cae0f3904958044be2b0b50a9d4668
+    m_object: {fileID: 3117141748438192415, guid: 69cae0f3904958044be2b0b50a9d4668, type: 3}
+  - m_name: Candle_05
+    m_id: -2147483535
+    m_guid: f40c05ecb9b256b46818f413dd296d08
+    m_object: {fileID: 8499943513416061079, guid: f40c05ecb9b256b46818f413dd296d08, type: 3}
+  - m_name: Dresser_01
+    m_id: -2147483534
+    m_guid: 750044a44c5f4a44ba6a85ea976ace13
+    m_object: {fileID: 4109850204675911148, guid: 750044a44c5f4a44ba6a85ea976ace13, type: 3}
+  - m_name: Dresser_01_V2
+    m_id: -2147483533
+    m_guid: 0698045073863a541b7777b0ddd342b0
+    m_object: {fileID: 2816771784233915592, guid: 0698045073863a541b7777b0ddd342b0, type: 3}
+  - m_name: Wood_Door_01
+    m_id: -2147483532
+    m_guid: dfbd79b9d2122ba4da27be1ee7f02c37
+    m_object: {fileID: 3027637327712055487, guid: dfbd79b9d2122ba4da27be1ee7f02c37, type: 3}
+  - m_name: Square Window Spawner
+    m_id: -2147483531
+    m_guid: f6a7417ba9e17494d9ad09a9c7299f10
+    m_object: {fileID: 8549875345527838437, guid: f6a7417ba9e17494d9ad09a9c7299f10, type: 3}
+  - m_name: Chimney_Fire 1
+    m_id: -2147483530
+    m_guid: 8e232f5e936cc9e4f8af89f06adb4b09
+    m_object: {fileID: 6394769529654360181, guid: 8e232f5e936cc9e4f8af89f06adb4b09, type: 3}
+  - m_name: Stool_01
+    m_id: -2147483529
+    m_guid: be0be17ed6ed4b54993f79fb7685aceb
+    m_object: {fileID: 4089170007219881049, guid: be0be17ed6ed4b54993f79fb7685aceb, type: 3}
+  - m_name: Leather_01_a
+    m_id: -2147483528
+    m_guid: 9622e83e00d5b0a45b6f33a78e9efdd2
+    m_object: {fileID: 5124466845423172082, guid: 9622e83e00d5b0a45b6f33a78e9efdd2, type: 3}
+  - m_name: Banner_01_a
+    m_id: -2147483527
+    m_guid: 9c55539d56f9df3468d388a3c68317ab
+    m_object: {fileID: 848073914445691765, guid: 9c55539d56f9df3468d388a3c68317ab, type: 3}
+  - m_name: Banner_02_a
+    m_id: -2147483526
+    m_guid: 26e914cf8bacbfd4d9d8802f94a57863
+    m_object: {fileID: 5681422282569832184, guid: 26e914cf8bacbfd4d9d8802f94a57863, type: 3}
+  - m_name: Old_Cloth_01
+    m_id: -2147483525
+    m_guid: 6f79f250378d1934d892b561efcb9bbd
+    m_object: {fileID: 7134818547435570945, guid: 6f79f250378d1934d892b561efcb9bbd, type: 3}
+  - m_name: Latern_01
+    m_id: -2147483524
+    m_guid: 8b234ab2e6736ea488ecac94455693d4
+    m_object: {fileID: 2749385270694099165, guid: 8b234ab2e6736ea488ecac94455693d4, type: 3}
+  - m_name: TI_SpiderWeb_01
+    m_id: -2147483523
+    m_guid: 1071b4d6acd5bfc4a8e23bc843feb07e
+    m_object: {fileID: 1505123416190195461, guid: 1071b4d6acd5bfc4a8e23bc843feb07e, type: 3}
+  - m_name: Bed Spawner(Bedside Left)
+    m_id: -2147483522
+    m_guid: d9ef80d4bb1172842b97ca865194a85d
+    m_object: {fileID: 5425016190475216674, guid: d9ef80d4bb1172842b97ca865194a85d, type: 3}
+  - m_name: Table Spawner
+    m_id: -2147483521
+    m_guid: a95a3d60e928fde498ef9110e961ccb6
+    m_object: {fileID: 5157351520918188795, guid: a95a3d60e928fde498ef9110e961ccb6, type: 3}
+  - m_name: Shelf Spawner
+    m_id: -2147483520
+    m_guid: 03c7fa830a9e4064293949f6ac292211
+    m_object: {fileID: 2211519298018935719, guid: 03c7fa830a9e4064293949f6ac292211, type: 3}
+  - m_name: CookingPot_01
+    m_id: -2147483519
+    m_guid: ea9f54d04c8117d45b2e94232e546bd5
+    m_object: {fileID: 5732659456254339822, guid: ea9f54d04c8117d45b2e94232e546bd5, type: 3}
+  - m_name: Candle_Stand_01
+    m_id: -2147483518
+    m_guid: 808d0fa28d0cf7b429e317836609b905
+    m_object: {fileID: 8013599687927090620, guid: 808d0fa28d0cf7b429e317836609b905, type: 3}
+  - m_name: Chest_A
+    m_id: -2147483517
+    m_guid: 0b90f602e4c6e67468f95dff60dda63f
+    m_object: {fileID: 5419354927464221315, guid: 0b90f602e4c6e67468f95dff60dda63f, type: 3}
+  - m_name: Barrel_02
+    m_id: -2147483516
+    m_guid: e3e58846a8d37bd4c90714d28fbb9a23
+    m_object: {fileID: 5622501482465326320, guid: e3e58846a8d37bd4c90714d28fbb9a23, type: 3}
+  - m_name: Bucket_01
+    m_id: -2147483515
+    m_guid: e7e38a9f6e2d3e6438f6caf11e50c495
+    m_object: {fileID: 385289919514360077, guid: e7e38a9f6e2d3e6438f6caf11e50c495, type: 3}
+  - m_name: WoodPlank_01
+    m_id: -2147483514
+    m_guid: 88396e77e7501de4596912d76a8bb90d
+    m_object: {fileID: 7646983660408229271, guid: 88396e77e7501de4596912d76a8bb90d, type: 3}
+  - m_name: WoodPlank_02
+    m_id: -2147483513
+    m_guid: e9483231f5c911547b5714c4aae122c7
+    m_object: {fileID: 8464597827378478038, guid: e9483231f5c911547b5714c4aae122c7, type: 3}
+  - m_name: WoodPlank_03
+    m_id: -2147483512
+    m_guid: 63d04b140d01ec641b5f2d6749065292
+    m_object: {fileID: 3390563349227682061, guid: 63d04b140d01ec641b5f2d6749065292, type: 3}
+  - m_name: Barrel_A
+    m_id: -2147483511
+    m_guid: 4b6394134413d8b4cb61a836caf0bb8a
+    m_object: {fileID: 8957924949074149144, guid: 4b6394134413d8b4cb61a836caf0bb8a, type: 3}
+  - m_name: CTent_02
+    m_id: -2147483510
+    m_guid: 175fa660689e03442a2c931675717d28
+    m_object: {fileID: 6486902747182109833, guid: 175fa660689e03442a2c931675717d28, type: 3}
+  - m_name: CTent_03
+    m_id: -2147483509
+    m_guid: edc3e85a0fd50514eaea3c889fb11f05
+    m_object: {fileID: 8977623325225673800, guid: edc3e85a0fd50514eaea3c889fb11f05, type: 3}
+  - m_name: Torch_01
+    m_id: -2147483508
+    m_guid: 57521e1a44ede214ca316ad3a7a18c0a
+    m_object: {fileID: 9003151939325367103, guid: 57521e1a44ede214ca316ad3a7a18c0a, type: 3}
+  - m_name: Ivy_Tendril_Edge_01
+    m_id: -2147483507
+    m_guid: 39b6467b5a8a53e488b3426a2211cb8e
+    m_object: {fileID: 2343087706172981600, guid: 39b6467b5a8a53e488b3426a2211cb8e, type: 3}
+  - m_name: Ivy_Tendril_R_02
+    m_id: -2147483506
+    m_guid: b2740148b0609e341be9b9059aa62ed0
+    m_object: {fileID: 4695848268714921715, guid: b2740148b0609e341be9b9059aa62ed0, type: 3}
+  - m_name: Ivy_Tendril_03
+    m_id: -2147483505
+    m_guid: eacf4b79e55418d4e85536b8eae5cd71
+    m_object: {fileID: 5911153618039624855, guid: eacf4b79e55418d4e85536b8eae5cd71, type: 3}
+  - m_name: Ivy_Tendril_01
+    m_id: -2147483504
+    m_guid: e3993b1f420eef74d9c083b8670846b8
+    m_object: {fileID: 2283403606588715441, guid: e3993b1f420eef74d9c083b8670846b8, type: 3}
+  - m_name: Ivy_Tendril_R_01
+    m_id: -2147483503
+    m_guid: 538bc9bfb09bf114b9f280ee2f90727c
+    m_object: {fileID: 7076934714426424928, guid: 538bc9bfb09bf114b9f280ee2f90727c, type: 3}
+  - m_name: Ivy_tendril_hang_03
+    m_id: -2147483502
+    m_guid: 20e515330c467e74aaa847512f1c13ed
+    m_object: {fileID: 4884838643873977585, guid: 20e515330c467e74aaa847512f1c13ed, type: 3}
+  - m_name: Check
+    m_id: -2147483501
+    m_guid: 7b100907989d00e4c98405d5d2382865
+    m_object: {fileID: 943309963987998224, guid: 7b100907989d00e4c98405d5d2382865, type: 3}
+  - m_name: Non-Gena
+    m_id: -2147483500
+    m_guid: 4f48a353a00fbda43ab684579364b510
+    m_object: {fileID: 7299499314674322400, guid: 4f48a353a00fbda43ab684579364b510, type: 3}
+  - m_name: Wood House
+    m_id: -2147483499
+    m_guid: 5312ac8366abe6a49915b717e2ecae97
+    m_object: {fileID: 7018192617133539074, guid: 5312ac8366abe6a49915b717e2ecae97, type: 3}
+  - m_name: Shelf_01
+    m_id: -2147483498
+    m_guid: b9e15c961a58a9747975be4263b4b342
+    m_object: {fileID: 2386545788251972119, guid: b9e15c961a58a9747975be4263b4b342, type: 3}
+  - m_name: Leather_01
+    m_id: -2147483497
+    m_guid: 66a1dd45c96e310448c12556bca0e6ec
+    m_object: {fileID: 8640798255074023225, guid: 66a1dd45c96e310448c12556bca0e6ec, type: 3}
+  - m_name: Painting_01
+    m_id: -2147483496
+    m_guid: 9288983509e84c74cab4a40ae232b4ca
+    m_object: {fileID: 2335570554179797738, guid: 9288983509e84c74cab4a40ae232b4ca, type: 3}
+  - m_name: Table_01
+    m_id: -2147483495
+    m_guid: e364e64d7c72d9c49bf91babb020f2a8
+    m_object: {fileID: 6198511813559516169, guid: e364e64d7c72d9c49bf91babb020f2a8, type: 3}
+  - m_name: Table_01_a
+    m_id: -2147483494
+    m_guid: 097478491214bbd409e718a24540c9bf
+    m_object: {fileID: 4134833727979376858, guid: 097478491214bbd409e718a24540c9bf, type: 3}
+  - m_name: Table_01_b
+    m_id: -2147483493
+    m_guid: 75f79a065f7fcf5479e27a979ba9ea21
+    m_object: {fileID: 3469108768343815147, guid: 75f79a065f7fcf5479e27a979ba9ea21, type: 3}
+  - m_name: Bench_01
+    m_id: -2147483492
+    m_guid: d812417f4fe16cb489b9714f130bb363
+    m_object: {fileID: 4049189854849827695, guid: d812417f4fe16cb489b9714f130bb363, type: 3}
+  - m_name: Shelf_02
+    m_id: -2147483491
+    m_guid: 3da8ae1dfb6834448b7b8b51773d43dd
+    m_object: {fileID: 3997352435676472708, guid: 3da8ae1dfb6834448b7b8b51773d43dd, type: 3}
+  - m_name: Slate Roof(Wood House)
+    m_id: -2147483490
+    m_guid: 19d50b74d9f7a0346ac50c7ede56ef7e
+    m_object: {fileID: 684648120543536126, guid: 19d50b74d9f7a0346ac50c7ede56ef7e, type: 3}
+  - m_name: Non-Gena(WoodHouse)
+    m_id: -2147483489
+    m_guid: da8613cd0bc3ed8498690c6e11a98ba7
+    m_object: {fileID: 3206077571816327581, guid: da8613cd0bc3ed8498690c6e11a98ba7, type: 3}
+  - m_name: House
+    m_id: -2147483488
+    m_guid: 7ee81102e418fbb41917cd0280677fae
+    m_object: {fileID: 2759544316553650914, guid: 7ee81102e418fbb41917cd0280677fae, type: 3}
+  - m_name: Window_02
+    m_id: -2147483487
+    m_guid: 7e210eaa8de428a42a22726c77bbb8d7
+    m_object: {fileID: 3836403373697414127, guid: 7e210eaa8de428a42a22726c77bbb8d7, type: 3}
+  - m_name: Ivy_tendril_Edge_02
+    m_id: -2147483486
+    m_guid: 4e087f4f39657734c92a8467f0245664
+    m_object: {fileID: 7850184012497941064, guid: 4e087f4f39657734c92a8467f0245664, type: 3}
+  - m_name: Ivy_Tendril_02
+    m_id: -2147483485
+    m_guid: aba6826948fb94a47adb1ed58ff521cb
+    m_object: {fileID: 8513033130804009024, guid: aba6826948fb94a47adb1ed58ff521cb, type: 3}
+  - m_name: Ivy_tendril_hang_01
+    m_id: -2147483484
+    m_guid: 4d88a3c5b2794b54fbe5d14f589866a5
+    m_object: {fileID: 3950096948755763163, guid: 4d88a3c5b2794b54fbe5d14f589866a5, type: 3}
+  - m_name: Ivy_Tendril_L_02
+    m_id: -2147483483
+    m_guid: 24d5b8e4ab9f9a24cbad3a5fa2b131be
+    m_object: {fileID: 6531836953037484607, guid: 24d5b8e4ab9f9a24cbad3a5fa2b131be, type: 3}
+  - m_name: Ivy_Tendril_big_02
+    m_id: -2147483482
+    m_guid: 1a4ec05cab50a2f428fb7523d916fe6e
+    m_object: {fileID: 4900226643448150229, guid: 1a4ec05cab50a2f428fb7523d916fe6e, type: 3}
+  - m_name: Ivy_Tendril_L_01
+    m_id: -2147483481
+    m_guid: 23a609d20ac21cb4b9f1a64a8608b957
+    m_object: {fileID: 5038872869110680338, guid: 23a609d20ac21cb4b9f1a64a8608b957, type: 3}
+  - m_name: Ivy_Tendril_big_01
+    m_id: -2147483480
+    m_guid: 9c2d9e0bc47dd34499a653075b6ed18c
+    m_object: {fileID: 2875681016781255153, guid: 9c2d9e0bc47dd34499a653075b6ed18c, type: 3}
+  - m_name: Ivy_tendril_big_01_Hang
+    m_id: -2147483479
+    m_guid: 3ce20b5b696bb064f8210efd57b04efc
+    m_object: {fileID: 4558479978143835820, guid: 3ce20b5b696bb064f8210efd57b04efc, type: 3}
+  - m_name: Non-Gena(Stone House)
+    m_id: -2147483478
+    m_guid: f6eddec13ff781d418715090b436ceb3
+    m_object: {fileID: 7530575301680379554, guid: f6eddec13ff781d418715090b436ceb3, type: 3}
+  - m_name: Banner_02
+    m_id: -2147483477
+    m_guid: ab381042ece2fce4bbc54d7aef6b4855
+    m_object: {fileID: 4116846922308289278, guid: ab381042ece2fce4bbc54d7aef6b4855, type: 3}
+  - m_name: Banner_01
+    m_id: -2147483476
+    m_guid: 456eb4afc0fa3fa4dad93beeec19254b
+    m_object: {fileID: 8557360850561007920, guid: 456eb4afc0fa3fa4dad93beeec19254b, type: 3}
+  - m_name: Statue_01
+    m_id: -2147483475
+    m_guid: 99d9a99132b897d449b142cfbbf7aecf
+    m_object: {fileID: 8139914174099403768, guid: 99d9a99132b897d449b142cfbbf7aecf, type: 3}
+  - m_name: 'Wood_Door_02 '
+    m_id: -2147483474
+    m_guid: 073a6d88aa7280b498962b0609826304
+    m_object: {fileID: 1746288119111687319, guid: 073a6d88aa7280b498962b0609826304, type: 3}
+  - m_name: Non-Gena(Castle_Tower)
+    m_id: -2147483473
+    m_guid: 59f105e855004784f9766e83f01eb2a6
+    m_object: {fileID: 5589517179301239536, guid: 59f105e855004784f9766e83f01eb2a6, type: 3}
+  - m_name: WoodHouseMask
+    m_id: -2147483472
+    m_guid: 95b8d8a9df1d80b458d47388c274487b
+    m_object: {fileID: 2800000, guid: 95b8d8a9df1d80b458d47388c274487b, type: 3}
+  - m_name: WoodHouseMask
+    m_id: -2147483471
+    m_guid: c346ce29e9d7314458a64f7aa3348049
+    m_object: {fileID: 2800000, guid: c346ce29e9d7314458a64f7aa3348049, type: 3}
+  - m_name: Non-Gena(Chapel)
+    m_id: -2147483470
+    m_guid: cf3c89bc229b2cf49907d2720dba507a
+    m_object: {fileID: 5445615451070301302, guid: cf3c89bc229b2cf49907d2720dba507a, type: 3}
+  - m_name: Chapel
+    m_id: -2147483469
+    m_guid: 36f9b4f79e4112841baf54a3929d6b5b
+    m_object: {fileID: 67645117577319865, guid: 36f9b4f79e4112841baf54a3929d6b5b, type: 3}
+  - m_name: Ivy_tendril_big_02_Hang
+    m_id: -2147483468
+    m_guid: 39c58c83f9715c64ebe0b7d4b9bc67b0
+    m_object: {fileID: 8961076983006084433, guid: 39c58c83f9715c64ebe0b7d4b9bc67b0, type: 3}
+  - m_name: Ivy_tendril_hang_02
+    m_id: -2147483467
+    m_guid: 0c1ea4fb7384d824593461ac0a23ff65
+    m_object: {fileID: 949201568255818292, guid: 0c1ea4fb7384d824593461ac0a23ff65, type: 3}
+  - m_name: Castle 1
+    m_id: -2147483466
+    m_guid: 76462265584169c429fea145a4e316fa
+    m_object: {fileID: 4531847169035897398, guid: 76462265584169c429fea145a4e316fa, type: 3}
+  - m_name: Castle1LargeFlattenMask
+    m_id: -2147483465
+    m_guid: 0e894e2a90b20a641b5de5aad88dd317
+    m_object: {fileID: 2800000, guid: 0e894e2a90b20a641b5de5aad88dd317, type: 3}
+  - m_name: Non-Gena(Tower 2)
+    m_id: -2147483464
+    m_guid: c543ec5e7a9df1e4da044c0e8bc44176
+    m_object: {fileID: 5736651122638750760, guid: c543ec5e7a9df1e4da044c0e8bc44176, type: 3}
+  - m_name: Non-Gena(Tower Gate)
+    m_id: -2147483463
+    m_guid: 2aec2baf1b8f90e4bae3aaeb8452cf77
+    m_object: {fileID: 8368922315445810394, guid: 2aec2baf1b8f90e4bae3aaeb8452cf77, type: 3}
+  - m_name: Non-Gena(Tower 1)
+    m_id: -2147483462
+    m_guid: e75add37fb7a74c438c42dd00338d7ce
+    m_object: {fileID: 7614433049587304556, guid: e75add37fb7a74c438c42dd00338d7ce, type: 3}
+  - m_name: Non-Gena(Shed)
+    m_id: -2147483461
+    m_guid: 6fc52bf89b20def46b88c60d7b4e2008
+    m_object: {fileID: 4155223828340659576, guid: 6fc52bf89b20def46b88c60d7b4e2008, type: 3}
+  - m_name: RockWall_01
+    m_id: -2147483460
+    m_guid: fd218f0e704a13c44a3915399acce18f
+    m_object: {fileID: 4942407457454044649, guid: fd218f0e704a13c44a3915399acce18f, type: 3}
+  - m_name: C_Wall
+    m_id: -2147483459
+    m_guid: 894380abf39222a468bdad83e65bc531
+    m_object: {fileID: 7867513266663644871, guid: 894380abf39222a468bdad83e65bc531, type: 3}
+  - m_name: C_Wall_Bracer_02
+    m_id: -2147483458
+    m_guid: 29e33fa5f2d5d01488ddfe5edf2c3feb
+    m_object: {fileID: 778645525092931690, guid: 29e33fa5f2d5d01488ddfe5edf2c3feb, type: 3}
+  - m_name: Well
+    m_id: -2147483457
+    m_guid: aebbbb86887d8874bad645b48f59e189
+    m_object: {fileID: 9139888004399315527, guid: aebbbb86887d8874bad645b48f59e189, type: 3}
+  - m_name: C_Wall_Stairs
+    m_id: -2147483456
+    m_guid: 84dbc7c705b2fb24c9cd295ec48b447f
+    m_object: {fileID: 6982473874601063044, guid: 84dbc7c705b2fb24c9cd295ec48b447f, type: 3}
+  - m_name: CTent_01
+    m_id: -2147483455
+    m_guid: ecb79078beca2d2458b1960c2a30b5a4
+    m_object: {fileID: 1459002704509242236, guid: ecb79078beca2d2458b1960c2a30b5a4, type: 3}
+  - m_name: C_Wall_Bracer_01
+    m_id: -2147483454
+    m_guid: 24ad24858897c814ca1b67654e68cae6
+    m_object: {fileID: 3523563650049961858, guid: 24ad24858897c814ca1b67654e68cae6, type: 3}
+  - m_name: C_Wall_Curve
+    m_id: -2147483453
+    m_guid: a81cf84c93554194d91a0e5da30a9c56
+    m_object: {fileID: 2615508975660478208, guid: a81cf84c93554194d91a0e5da30a9c56, type: 3}
+  - m_name: Gallows
+    m_id: -2147483452
+    m_guid: 2667233b7017b8543b2449a3087d9c23
+    m_object: {fileID: 292888944064996811, guid: 2667233b7017b8543b2449a3087d9c23, type: 3}
+  - m_name: Cage_01_V2
+    m_id: -2147483451
+    m_guid: 345af8e7e7e9a88458676ef60d4c7660
+    m_object: {fileID: 3181827972814053502, guid: 345af8e7e7e9a88458676ef60d4c7660, type: 3}
+  - m_name: Block_01_LP
+    m_id: -2147483450
+    m_guid: f3afd6ce5415056438315c99441c557f
+    m_object: {fileID: 100000, guid: f3afd6ce5415056438315c99441c557f, type: 3}
+  - m_name: Block_01_a
+    m_id: -2147483449
+    m_guid: 5c23aa4bd49555f4a804234b9a6f21a3
+    m_object: {fileID: 1229114678939115399, guid: 5c23aa4bd49555f4a804234b9a6f21a3, type: 3}
+  - m_name: Gnarly_Tree_01
+    m_id: -2147483448
+    m_guid: 3f9ea5b66cf830b4d84bd80f8dbae68d
+    m_object: {fileID: 5382054572061564130, guid: 3f9ea5b66cf830b4d84bd80f8dbae68d, type: 3}
+  - m_name: Castle1SmallFlattenMask
+    m_id: -2147483447
+    m_guid: ccd8c8087a063db4bafe0cad08e34dcb
+    m_object: {fileID: 2800000, guid: ccd8c8087a063db4bafe0cad08e34dcb, type: 3}
+  - m_name: Tower2Mask
+    m_id: -2147483446
+    m_guid: 8a6c27cee30f326429d361e161b44c64
+    m_object: {fileID: 2800000, guid: 8a6c27cee30f326429d361e161b44c64, type: 3}
+  - m_name: Tower1Mask
+    m_id: -2147483445
+    m_guid: 38431166abd6dd84e93b8361dcc40d4a
+    m_object: {fileID: 2800000, guid: 38431166abd6dd84e93b8361dcc40d4a, type: 3}
+  - m_name: LargeTowerMask
+    m_id: -2147483444
+    m_guid: f009fc0d7b6604e4bb9ac486ca5c772a
+    m_object: {fileID: 2800000, guid: f009fc0d7b6604e4bb9ac486ca5c772a, type: 3}
+  - m_name: BridgeMoundMask
+    m_id: -2147483443
+    m_guid: 90488455f9e83054d9ce813cb34531eb
+    m_object: {fileID: 2800000, guid: 90488455f9e83054d9ce813cb34531eb, type: 3}
+  - m_name: Terrain
+    m_id: -2147483442
+    m_guid: 2a6e26e5a8c74594a9d0612562866742
+    m_object: {fileID: 2800000, guid: 2a6e26e5a8c74594a9d0612562866742, type: 3}
+  - m_name: Terrain
+    m_id: -2147483441
+    m_guid: 96b6829caed2e9943b5cc4b6cfef9f84
+    m_object: {fileID: 2800000, guid: 96b6829caed2e9943b5cc4b6cfef9f84, type: 3}
+  - m_name: Castle1CenterMound
+    m_id: -2147483440
+    m_guid: d7d88b7f903d37342acdf03f0d355a47
+    m_object: {fileID: 2800000, guid: d7d88b7f903d37342acdf03f0d355a47, type: 3}
+  - m_name: Castle1CenterMound
+    m_id: -2147483439
+    m_guid: 7c758635c4dea8f48894e805daa8cf5b
+    m_object: {fileID: 2800000, guid: 7c758635c4dea8f48894e805daa8cf5b, type: 3}
+  - m_name: Floor_Tile_Grp_01
+    m_id: -2147483438
+    m_guid: 3e30f07002e981c43815062eefdcef26
+    m_object: {fileID: 5165088584528937621, guid: 3e30f07002e981c43815062eefdcef26, type: 3}
+  - m_name: Floor_Tile_Grp_02
+    m_id: -2147483437
+    m_guid: 0fa9f5eeb1049194eb4f584d911895ac
+    m_object: {fileID: 4494757864519049963, guid: 0fa9f5eeb1049194eb4f584d911895ac, type: 3}
+  - m_name: Floor_Tile_Grp_03
+    m_id: -2147483436
+    m_guid: 27147386d02b92944854e2144544239c
+    m_object: {fileID: 3074966104087656929, guid: 27147386d02b92944854e2144544239c, type: 3}
+  - m_name: Floor_Tile_Grp_04
+    m_id: -2147483435
+    m_guid: 6055878be316d2e49bb7401b65d53129
+    m_object: {fileID: 381988028862930005, guid: 6055878be316d2e49bb7401b65d53129, type: 3}
+  - m_name: Floor_Tile_Grp_05
+    m_id: -2147483434
+    m_guid: 72ee207c7cd566d4b92c7136712fff62
+    m_object: {fileID: 858082612673038412, guid: 72ee207c7cd566d4b92c7136712fff62, type: 3}
+  - m_name: Floor_Tile_Grp_06
+    m_id: -2147483433
+    m_guid: 79716561af4476045a7755fbd16efee0
+    m_object: {fileID: 1127350031852014788, guid: 79716561af4476045a7755fbd16efee0, type: 3}
+  - m_name: Fence_01
+    m_id: -2147483432
+    m_guid: ed2569bff9d10d041b2128a86be4176d
+    m_object: {fileID: 2866509484872341684, guid: ed2569bff9d10d041b2128a86be4176d, type: 3}
+  - m_name: Fence_02
+    m_id: -2147483431
+    m_guid: 7ddfaaf354ca52e41b656c08d2555b48
+    m_object: {fileID: 7132835882209602930, guid: 7ddfaaf354ca52e41b656c08d2555b48, type: 3}
+  - m_name: Fence_03
+    m_id: -2147483430
+    m_guid: a4b409701d097d24dadce0795d42b542
+    m_object: {fileID: 4415484872679024380, guid: a4b409701d097d24dadce0795d42b542, type: 3}
+  - m_name: Fence_04
+    m_id: -2147483429
+    m_guid: 700b906a9556b7e4da6aa7039ee06d79
+    m_object: {fileID: 7868534719203282742, guid: 700b906a9556b7e4da6aa7039ee06d79, type: 3}
+  - m_name: Fence_05
+    m_id: -2147483428
+    m_guid: bf02e6165bdcd9346a959a67348f2550
+    m_object: {fileID: 7716674067704031242, guid: bf02e6165bdcd9346a959a67348f2550, type: 3}
+  - m_name: Castle2FlattenMask
+    m_id: -2147483427
+    m_guid: 5faadfd6fb03c5441bc7af1899dd2053
+    m_object: {fileID: 2800000, guid: 5faadfd6fb03c5441bc7af1899dd2053, type: 3}
+  - m_name: Castle2RaiseMask
+    m_id: -2147483426
+    m_guid: 536f37495bd14ef41be529de4167d7ec
+    m_object: {fileID: 2800000, guid: 536f37495bd14ef41be529de4167d7ec, type: 3}
+  - m_name: Non-Gena(Castle Wall)
+    m_id: -2147483425
+    m_guid: a5010e6df65b45245a719d6942841c65
+    m_object: {fileID: 5470204158351852714, guid: a5010e6df65b45245a719d6942841c65, type: 3}
+  - m_name: Non-Gena(CastleWallCurve)
+    m_id: -2147483424
+    m_guid: 2a57aa443f824fc42a7d4b104adc3ca5
+    m_object: {fileID: 4008598871662853389, guid: 2a57aa443f824fc42a7d4b104adc3ca5, type: 3}
+  - m_name: MediumRockFlatten
+    m_id: -2147483423
+    m_guid: f806994f920c4244db0737fb3f76cf46
+    m_object: {fileID: 2800000, guid: f806994f920c4244db0737fb3f76cf46, type: 3}
+  - m_name: LargeRockFlatten
+    m_id: -2147483422
+    m_guid: 48e0d133494228745a381fba73ad0774
+    m_object: {fileID: 2800000, guid: 48e0d133494228745a381fba73ad0774, type: 3}
+  - m_name: SmallCliff2Flatten
+    m_id: -2147483421
+    m_guid: c1c0a10cc078ba04b9e005b4cc763eb2
+    m_object: {fileID: 2800000, guid: c1c0a10cc078ba04b9e005b4cc763eb2, type: 3}
+  - m_name: SmallCliffFlatten
+    m_id: -2147483420
+    m_guid: 928b8391c5c272b44a656c4e590fcf2f
+    m_object: {fileID: 2800000, guid: 928b8391c5c272b44a656c4e590fcf2f, type: 3}
+  - m_name: CraterFlatten1
+    m_id: -2147483419
+    m_guid: af76a7dd8fe800943b3fae375f7b3605
+    m_object: {fileID: 2800000, guid: af76a7dd8fe800943b3fae375f7b3605, type: 3}
+  - m_name: CraterFlatten2
+    m_id: -2147483418
+    m_guid: cffd27b083cc37e43b9169e549bbc2dd
+    m_object: {fileID: 2800000, guid: cffd27b083cc37e43b9169e549bbc2dd, type: 3}
+  - m_name: LargeRockFormation1Flatten
+    m_id: -2147483417
+    m_guid: af042dd7ae5a86b49b439d565e38e7ab
+    m_object: {fileID: 2800000, guid: af042dd7ae5a86b49b439d565e38e7ab, type: 3}
+  - m_name: LargeRockFormation2
+    m_id: -2147483416
+    m_guid: d96b9bc9bc2f8aa4ea790164ef0d5f96
+    m_object: {fileID: 2800000, guid: d96b9bc9bc2f8aa4ea790164ef0d5f96, type: 3}
+  - m_name: Stone_Pile_01_Sand
+    m_id: -2147483415
+    m_guid: 58e2a11c469256a45b8e88f8c29a7030
+    m_object: {fileID: 3382119777730807285, guid: 58e2a11c469256a45b8e88f8c29a7030, type: 3}
+  - m_name: LargeRockFormation3
+    m_id: -2147483414
+    m_guid: 1b11f247720d5884180d5852f202a9e5
+    m_object: {fileID: 2800000, guid: 1b11f247720d5884180d5852f202a9e5, type: 3}
+  - m_name: Stone_Pile_04_Sand
+    m_id: -2147483413
+    m_guid: d869cd7b26b10324c99b99ea6c8f9cab
+    m_object: {fileID: 4488329390391109815, guid: d869cd7b26b10324c99b99ea6c8f9cab, type: 3}
+  - m_name: Stone_Pile_02_Sand
+    m_id: -2147483412
+    m_guid: cb80a0051b4516e449a77e437b5085aa
+    m_object: {fileID: 8734326095302103388, guid: cb80a0051b4516e449a77e437b5085aa, type: 3}
+  - m_name: Rock_06_Sand
+    m_id: -2147483411
+    m_guid: 0aa9b62ec818b9e4ca2e93e31a3b1f59
+    m_object: {fileID: 3232141417024798877, guid: 0aa9b62ec818b9e4ca2e93e31a3b1f59, type: 3}
+  - m_name: SandStone_Surface_01
+    m_id: -2147483410
+    m_guid: e25e3a64e88c9af4fa47cbecb264fb3e
+    m_object: {fileID: 5763905997123916998, guid: e25e3a64e88c9af4fa47cbecb264fb3e, type: 3}
+  - m_name: Cliff_Side_02_Sand
+    m_id: -2147483409
+    m_guid: 37244e879f6eab44fb32780d9549957a
+    m_object: {fileID: 2167900040818533850, guid: 37244e879f6eab44fb32780d9549957a, type: 3}
+  - m_name: Stone_07
+    m_id: -2147483408
+    m_guid: bcebfa3fb6061454eba39588a82d2b21
+    m_object: {fileID: 6966031068388132314, guid: bcebfa3fb6061454eba39588a82d2b21, type: 3}
+  - m_name: Stone_Grp_04
+    m_id: -2147483407
+    m_guid: d260bc74a43bbef43ad4ebdf7eda3343
+    m_object: {fileID: 6079886273824273372, guid: d260bc74a43bbef43ad4ebdf7eda3343, type: 3}
+  - m_name: Rock_01_Sand
+    m_id: -2147483406
+    m_guid: 67c065e3b43bc8740b524ef10eb6d050
+    m_object: {fileID: 1950692664253999944, guid: 67c065e3b43bc8740b524ef10eb6d050, type: 3}
+  - m_name: Rock_04_Sand
+    m_id: -2147483405
+    m_guid: f5f33f4e961907449887a280db2659fd
+    m_object: {fileID: 1363342594655083999, guid: f5f33f4e961907449887a280db2659fd, type: 3}
+  - m_name: Pebbles_Grp_02_Sand
+    m_id: -2147483404
+    m_guid: 60fd9c1131f705d4baaf52b5ceb8edf0
+    m_object: {fileID: 2622003674020471143, guid: 60fd9c1131f705d4baaf52b5ceb8edf0, type: 3}
+  - m_name: Stone_01
+    m_id: -2147483403
+    m_guid: ed713d46a81e4f64987efaf908862738
+    m_object: {fileID: 674689203579953558, guid: ed713d46a81e4f64987efaf908862738, type: 3}
+  - m_name: Pebbles_Grp_01
+    m_id: -2147483402
+    m_guid: 39d06bfe317fbff4c96469796c10a536
+    m_object: {fileID: 7158508891001519882, guid: 39d06bfe317fbff4c96469796c10a536, type: 3}
+  - m_name: Stone_02
+    m_id: -2147483401
+    m_guid: 93f25d14127e1c84ebcb73f94a6e0302
+    m_object: {fileID: 7392439044241875919, guid: 93f25d14127e1c84ebcb73f94a6e0302, type: 3}
+  - m_name: Stone_Grp_02
+    m_id: -2147483400
+    m_guid: 55ac8cea1203c6642b747d5aa3d7a8ed
+    m_object: {fileID: 4504801448200427189, guid: 55ac8cea1203c6642b747d5aa3d7a8ed, type: 3}
+  - m_name: Stone_Grp_03
+    m_id: -2147483399
+    m_guid: a435a7d438df01449971cfa50e89a40f
+    m_object: {fileID: 946506523251009255, guid: a435a7d438df01449971cfa50e89a40f, type: 3}
+  - m_name: Rock_06
+    m_id: -2147483398
+    m_guid: 563af989015de94459a2b64c319d9107
+    m_object: {fileID: 83736873862211025, guid: 563af989015de94459a2b64c319d9107, type: 3}
+  - m_name: Rock_05
+    m_id: -2147483397
+    m_guid: 4ee86bb645f053046b06cb5c20bd389f
+    m_object: {fileID: 3531058783397272683, guid: 4ee86bb645f053046b06cb5c20bd389f, type: 3}
+  - m_name: Rock_04
+    m_id: -2147483396
+    m_guid: d13ba0059d1732e4f954f9569ea9250f
+    m_object: {fileID: 1363342594655083999, guid: d13ba0059d1732e4f954f9569ea9250f, type: 3}
+  - m_name: Rock_01
+    m_id: -2147483395
+    m_guid: aec1117caa4f73d4a8554c0658a9e223
+    m_object: {fileID: 1483756382405175100, guid: aec1117caa4f73d4a8554c0658a9e223, type: 3}
+  - m_name: Rock_02
+    m_id: -2147483394
+    m_guid: 7c9e076f8a05fa94381c87ffcc18f31b
+    m_object: {fileID: 568352405704425043, guid: 7c9e076f8a05fa94381c87ffcc18f31b, type: 3}
+  - m_name: Rock_03
+    m_id: -2147483393
+    m_guid: dbdb1bc988371724da5c4df00851fbba
+    m_object: {fileID: 6273889758388119462, guid: dbdb1bc988371724da5c4df00851fbba, type: 3}
+  - m_name: Stone_Pile_03_Sand
+    m_id: -2147483392
+    m_guid: c7010b0d91833a0408d8fe03c6111bc2
+    m_object: {fileID: 6588228106194827115, guid: c7010b0d91833a0408d8fe03c6111bc2, type: 3}
+  - m_name: Stone_Pile_04
+    m_id: -2147483391
+    m_guid: 0fc5c59ffbb16d34cb304fd8d346af98
+    m_object: {fileID: 3755463994364915770, guid: 0fc5c59ffbb16d34cb304fd8d346af98, type: 3}
+  - m_name: Stone_Pile_01
+    m_id: -2147483390
+    m_guid: 12d5cc9089abe6841a87d00dcc415733
+    m_object: {fileID: 7008113350275154164, guid: 12d5cc9089abe6841a87d00dcc415733, type: 3}
+  - m_name: Pebbles_Grp_03_Moss
+    m_id: -2147483389
+    m_guid: 36a683505a15e644dae3576d03916da1
+    m_object: {fileID: 6813681904001961849, guid: 36a683505a15e644dae3576d03916da1, type: 3}
+  - m_name: Stone_Pile_02
+    m_id: -2147483388
+    m_guid: 27f2c08f8edd6554a8d666b169192c65
+    m_object: {fileID: 3697043559802637898, guid: 27f2c08f8edd6554a8d666b169192c65, type: 3}
+  - m_name: Stone_Pile_03
+    m_id: -2147483387
+    m_guid: 7fdcdd46844e08443bfc693756d83cf1
+    m_object: {fileID: 4496207454314286193, guid: 7fdcdd46844e08443bfc693756d83cf1, type: 3}
+  - m_name: Stone_Grp_01
+    m_id: -2147483386
+    m_guid: 37ba12089e3c6ac4b973e0ca062cabd6
+    m_object: {fileID: 3311910657416141881, guid: 37ba12089e3c6ac4b973e0ca062cabd6, type: 3}
+  - m_name: Stone_01
+    m_id: -2147483385
+    m_guid: ddcc59eff5997024c9d9f5a90c5b1f37
+    m_object: {fileID: 674689203579953558, guid: ddcc59eff5997024c9d9f5a90c5b1f37, type: 3}
+  - m_name: Stone_03
+    m_id: -2147483384
+    m_guid: 8689c3154d9f5e14d91b6f603e5a0717
+    m_object: {fileID: 814980824711012461, guid: 8689c3154d9f5e14d91b6f603e5a0717, type: 3}
+  - m_name: Pebbles_Grp_01
+    m_id: -2147483383
+    m_guid: cd5943c6357802c46b242ff3f0ed9c2c
+    m_object: {fileID: 7158508891001519882, guid: cd5943c6357802c46b242ff3f0ed9c2c, type: 3}
+  - m_name: Pebbles_Grp_02
+    m_id: -2147483382
+    m_guid: 4316bdb88a88c604b97ace08b372b433
+    m_object: {fileID: 2527267967940246058, guid: 4316bdb88a88c604b97ace08b372b433, type: 3}
+  - m_name: Pebbles_Grp_03
+    m_id: -2147483381
+    m_guid: 45fd89effc4d62e4ca9923d1e961efb0
+    m_object: {fileID: 431683072637698179, guid: 45fd89effc4d62e4ca9923d1e961efb0, type: 3}
+  - m_name: Pebbles_Grp_04
+    m_id: -2147483380
+    m_guid: 205bd9fcad5907b48b2375b89b059f0e
+    m_object: {fileID: 4172489070058885431, guid: 205bd9fcad5907b48b2375b89b059f0e, type: 3}
+  - m_name: Pebbles_Grp_05
+    m_id: -2147483379
+    m_guid: 8cfe1b1e6ec894b4bb36f54a228153b0
+    m_object: {fileID: 4697451084951472409, guid: 8cfe1b1e6ec894b4bb36f54a228153b0, type: 3}
+  - m_name: Stone_Grp_04
+    m_id: -2147483378
+    m_guid: 2e5e78ada2709494cb455afad8ce1685
+    m_object: {fileID: 6079886273824273372, guid: 2e5e78ada2709494cb455afad8ce1685, type: 3}
+  - m_name: Stone_Grp_02
+    m_id: -2147483377
+    m_guid: 800ed28e858400e4c90a07ed61af0bea
+    m_object: {fileID: 4504801448200427189, guid: 800ed28e858400e4c90a07ed61af0bea, type: 3}
+  - m_name: Stone_Grp_03
+    m_id: -2147483376
+    m_guid: 383dae9b231c6bf45a8a6757eb43230d
+    m_object: {fileID: 946506523251009255, guid: 383dae9b231c6bf45a8a6757eb43230d, type: 3}
+  - m_name: Chalk_Rock_01
+    m_id: -2147483375
+    m_guid: 9821260b52cdab645a3442e3680a8b66
+    m_object: {fileID: 1885450067990458551, guid: 9821260b52cdab645a3442e3680a8b66, type: 3}
+  - m_name: Village1FlattenMask
+    m_id: -2147483374
+    m_guid: fa88d1a9f4b0d6f40baeed28d8509892
+    m_object: {fileID: 2800000, guid: fa88d1a9f4b0d6f40baeed28d8509892, type: 3}
+  - m_name: Village1TextureMask
+    m_id: -2147483373
+    m_guid: dca5619417ef62146a958b86c3c82694
+    m_object: {fileID: 2800000, guid: dca5619417ef62146a958b86c3c82694, type: 3}
+  - m_name: Village 2
+    m_id: -2147483372
+    m_guid: 4ea348f47ec73504fa76c4f2bcf785b2
+    m_object: {fileID: 494473213830901180, guid: 4ea348f47ec73504fa76c4f2bcf785b2, type: 3}
+  - m_name: Village 3
+    m_id: -2147483371
+    m_guid: 3bdf2dac3fd3cc84b904d7607f8ebe48
+    m_object: {fileID: 4457333902482258977, guid: 3bdf2dac3fd3cc84b904d7607f8ebe48, type: 3}
+  - m_name: Village 4
+    m_id: -2147483370
+    m_guid: a18579652496efd4bb702db0ab8303d5
+    m_object: {fileID: 37806755846885847, guid: a18579652496efd4bb702db0ab8303d5, type: 3}
+  - m_name: Oak_01
+    m_id: -2147483369
+    m_guid: c618fe5bfa375084691c1af3579755fe
+    m_object: {fileID: 100000, guid: c618fe5bfa375084691c1af3579755fe, type: 3}
+  - m_name: Oak_05
+    m_id: -2147483368
+    m_guid: a20c0049e9723544a8cae61ee2b219d6
+    m_object: {fileID: 100000, guid: a20c0049e9723544a8cae61ee2b219d6, type: 3}
+  - m_name: Oak_09b
+    m_id: -2147483367
+    m_guid: 98d75563b80e26e489b7a4d102d25d93
+    m_object: {fileID: 100000, guid: 98d75563b80e26e489b7a4d102d25d93, type: 3}
+  - m_name: Oak_13a
+    m_id: -2147483366
+    m_guid: 4f56c56074a95a24996aea8756bb419b
+    m_object: {fileID: 100000, guid: 4f56c56074a95a24996aea8756bb419b, type: 3}
+  - m_name: A_Beech_01
+    m_id: -2147483365
+    m_guid: fde6ff94dc5293541aefe7116d7fde11
+    m_object: {fileID: 100000, guid: fde6ff94dc5293541aefe7116d7fde11, type: 3}
+  - m_name: A_Beech_07
+    m_id: -2147483364
+    m_guid: 150949b5436c3e146b909766862868a6
+    m_object: {fileID: 100000, guid: 150949b5436c3e146b909766862868a6, type: 3}
+  - m_name: A_Beech_16
+    m_id: -2147483363
+    m_guid: 738dfed8f90ff624ea1ee9a933ab5f98
+    m_object: {fileID: 100000, guid: 738dfed8f90ff624ea1ee9a933ab5f98, type: 3}
+  - m_name: Beech_01
+    m_id: -2147483362
+    m_guid: ce1da5f82ecfadb438156f0330f251fb
+    m_object: {fileID: 100000, guid: ce1da5f82ecfadb438156f0330f251fb, type: 3}
+  - m_name: Beech_07
+    m_id: -2147483361
+    m_guid: cafc656e204c75c4f925f95091502e73
+    m_object: {fileID: 100000, guid: cafc656e204c75c4f925f95091502e73, type: 3}
+  - m_name: Beech_08
+    m_id: -2147483360
+    m_guid: d89be0a323ddf0f48b477ee6a7d080f8
+    m_object: {fileID: 100000, guid: d89be0a323ddf0f48b477ee6a7d080f8, type: 3}
+  - m_name: Beech_17
+    m_id: -2147483359
+    m_guid: c1a05a3ebcc056f41a697c4fabde67ea
+    m_object: {fileID: 100000, guid: c1a05a3ebcc056f41a697c4fabde67ea, type: 3}
+  - m_name: Beech_20
+    m_id: -2147483358
+    m_guid: 8638a05070e361c4faf070636c45671f
+    m_object: {fileID: 100000, guid: 8638a05070e361c4faf070636c45671f, type: 3}
+  - m_name: Conifer_04
+    m_id: -2147483357
+    m_guid: 578a347ebbbb1a44b80511f06611ac9c
+    m_object: {fileID: 100000, guid: 578a347ebbbb1a44b80511f06611ac9c, type: 3}
+  - m_name: Conifer_05
+    m_id: -2147483356
+    m_guid: 597bad6ba82de8248949b802d819904e
+    m_object: {fileID: 100000, guid: 597bad6ba82de8248949b802d819904e, type: 3}
+  - m_name: Conifer_07_a
+    m_id: -2147483355
+    m_guid: fe206faf623a3ba4d9d638312790a6e4
+    m_object: {fileID: 100000, guid: fe206faf623a3ba4d9d638312790a6e4, type: 3}
+  - m_name: Conifer_28_a
+    m_id: -2147483354
+    m_guid: b0cae9a56611dd448b64ffecef66f0b6
+    m_object: {fileID: 100000, guid: b0cae9a56611dd448b64ffecef66f0b6, type: 3}
+  - m_name: Conifer_02
+    m_id: -2147483353
+    m_guid: 2e1073b09dce89f4c8051cf8c047801a
+    m_object: {fileID: 100000, guid: 2e1073b09dce89f4c8051cf8c047801a, type: 3}
+  - m_name: Conifer_06
+    m_id: -2147483352
+    m_guid: 89e0e661ad38fda469cf33e163862d60
+    m_object: {fileID: 100000, guid: 89e0e661ad38fda469cf33e163862d60, type: 3}
+  - m_name: Rock_02_Moss
+    m_id: -2147483351
+    m_guid: 31fe4f137b0b53b448e1058d3bda4462
+    m_object: {fileID: 568352405704425043, guid: 31fe4f137b0b53b448e1058d3bda4462, type: 3}
+  - m_name: Rock_01_Moss
+    m_id: -2147483350
+    m_guid: db2b1d718b08a7b43b1ef394e9cdc14c
+    m_object: {fileID: 6111673198008233750, guid: db2b1d718b08a7b43b1ef394e9cdc14c, type: 3}
+  - m_name: Rock_03_Moss
+    m_id: -2147483349
+    m_guid: fdc0ea41ba325bd4e9a11d66440b3f30
+    m_object: {fileID: 6273889758388119462, guid: fdc0ea41ba325bd4e9a11d66440b3f30, type: 3}
+  - m_name: Rock_04_Moss
+    m_id: -2147483348
+    m_guid: a4c557f8c0a95834ea89f294223f1998
+    m_object: {fileID: 1363342594655083999, guid: a4c557f8c0a95834ea89f294223f1998, type: 3}
+  - m_name: Rock_05_Moss
+    m_id: -2147483347
+    m_guid: 0fbed8136834e6041b3089ef4223da90
+    m_object: {fileID: 3531058783397272683, guid: 0fbed8136834e6041b3089ef4223da90, type: 3}
+  - m_name: Rock_06_Moss
+    m_id: -2147483346
+    m_guid: 959220895722a1942b965e7373619669
+    m_object: {fileID: 2037755204212681507, guid: 959220895722a1942b965e7373619669, type: 3}
+  - m_name: Rock_01_Sand
+    m_id: -2147483345
+    m_guid: f8d9e8c4c74a22f4cb83e7f386d33976
+    m_object: {fileID: 1950692664253999944, guid: f8d9e8c4c74a22f4cb83e7f386d33976, type: 3}
+  - m_name: Rock_02_Sand
+    m_id: -2147483344
+    m_guid: 992cc7e6e5cc0fb4b978b67fff411816
+    m_object: {fileID: 1604467059803769267, guid: 992cc7e6e5cc0fb4b978b67fff411816, type: 3}
+  - m_name: Rock_03_Sand
+    m_id: -2147483343
+    m_guid: 980ecdf6d16d470439ec2267a4721502
+    m_object: {fileID: 6273889758388119462, guid: 980ecdf6d16d470439ec2267a4721502, type: 3}
+  - m_name: Rock_04_Sand
+    m_id: -2147483342
+    m_guid: f7da3d21f1ea0b6419dbcef234139b8e
+    m_object: {fileID: 1363342594655083999, guid: f7da3d21f1ea0b6419dbcef234139b8e, type: 3}
+  - m_name: Rock_05_Sand
+    m_id: -2147483341
+    m_guid: eccde00a636a480459ba425f3ab0ebac
+    m_object: {fileID: 3531058783397272683, guid: eccde00a636a480459ba425f3ab0ebac, type: 3}
+  - m_name: Rock_06_Sand
+    m_id: -2147483340
+    m_guid: ad0569b2205c7fb4d8c9b97394a7571e
+    m_object: {fileID: 3232141417024798877, guid: ad0569b2205c7fb4d8c9b97394a7571e, type: 3}
+  - m_name: Pebbles_Grp_01_Moss
+    m_id: -2147483339
+    m_guid: 2c0e6d68bd1e7d84f850eaeddaf2aed9
+    m_object: {fileID: 5508022238329289507, guid: 2c0e6d68bd1e7d84f850eaeddaf2aed9, type: 3}
+  - m_name: Pebbles_Grp_02_Moss
+    m_id: -2147483338
+    m_guid: 8185681bdcc53754cbb8f82f6fa3fd90
+    m_object: {fileID: 2311023729376503366, guid: 8185681bdcc53754cbb8f82f6fa3fd90, type: 3}
+  - m_name: Pebbles_Grp_04_Moss
+    m_id: -2147483337
+    m_guid: 4340ba74d5473694fa8dffda425cdaad
+    m_object: {fileID: 511832401277431023, guid: 4340ba74d5473694fa8dffda425cdaad, type: 3}
+  - m_name: Pebbles_Grp_05_Moss
+    m_id: -2147483336
+    m_guid: ea5a46b59c2dcaa4683cede5e7195d8a
+    m_object: {fileID: 5888723462280539149, guid: ea5a46b59c2dcaa4683cede5e7195d8a, type: 3}
+  - m_name: Stone_02_Moss
+    m_id: -2147483335
+    m_guid: 7b8908a97f04f0a4f8851c91670274c4
+    m_object: {fileID: 4870816004843246857, guid: 7b8908a97f04f0a4f8851c91670274c4, type: 3}
+  - m_name: Stone_01_Moss
+    m_id: -2147483334
+    m_guid: 3b211258d7c023940aba99e0871ab3d3
+    m_object: {fileID: 7856579672901643626, guid: 3b211258d7c023940aba99e0871ab3d3, type: 3}
+  - m_name: Pebbles_Grp_01_Sand
+    m_id: -2147483333
+    m_guid: dcb5afecc8bd7964a961181e4fc8a67f
+    m_object: {fileID: 5699704276733741579, guid: dcb5afecc8bd7964a961181e4fc8a67f, type: 3}
+  - m_name: Pebbles_Grp_02_Sand
+    m_id: -2147483332
+    m_guid: b0b7b8b36253e8441a4bdffecfab30f1
+    m_object: {fileID: 2622003674020471143, guid: b0b7b8b36253e8441a4bdffecfab30f1, type: 3}
+  - m_name: Pebbles_Grp_03_Sand
+    m_id: -2147483331
+    m_guid: 4259414387bb14e4d8e891d7f5f8586f
+    m_object: {fileID: 1682129132672819455, guid: 4259414387bb14e4d8e891d7f5f8586f, type: 3}
+  - m_name: Pebbles_Grp_04_Sand
+    m_id: -2147483330
+    m_guid: 868238ea124c4ec4ea8b575adc944f4c
+    m_object: {fileID: 1522631730411677840, guid: 868238ea124c4ec4ea8b575adc944f4c, type: 3}
+  - m_name: Pebbles_Grp_05_Sand
+    m_id: -2147483329
+    m_guid: 37856bc1fe9ebaa439609b78d839a18d
+    m_object: {fileID: 4951954559654752500, guid: 37856bc1fe9ebaa439609b78d839a18d, type: 3}
+  - m_name: Stone_02_Sand
+    m_id: -2147483328
+    m_guid: a6994a1af4c639944a9c87dbe2e05a10
+    m_object: {fileID: 4870816004843246857, guid: a6994a1af4c639944a9c87dbe2e05a10, type: 3}
+  - m_name: Stone_01_Sand
+    m_id: -2147483327
+    m_guid: 02701f1e7f8b01f478335f321fb5b358
+    m_object: {fileID: 2551076898589645182, guid: 02701f1e7f8b01f478335f321fb5b358, type: 3}
+  - m_name: Stone_Pile_01_Moss
+    m_id: -2147483326
+    m_guid: c731ebaa3079aa64cb338aa04c0be3d8
+    m_object: {fileID: 4093403823709676264, guid: c731ebaa3079aa64cb338aa04c0be3d8, type: 3}
+  - m_name: Stone_Pile_03_Moss
+    m_id: -2147483325
+    m_guid: 547b43a35f3d9a240aaf617d58ceae27
+    m_object: {fileID: 1978761474023790998, guid: 547b43a35f3d9a240aaf617d58ceae27, type: 3}
+  - m_name: Stone_Pile_01_Sand
+    m_id: -2147483324
+    m_guid: 1126762436202e248975e989c221486d
+    m_object: {fileID: 3382119777730807285, guid: 1126762436202e248975e989c221486d, type: 3}
+  - m_name: Castle2PathTextureMask
+    m_id: -2147483323
+    m_guid: a748026aa7548b24ca30713bd04e1fa4
+    m_object: {fileID: 2800000, guid: a748026aa7548b24ca30713bd04e1fa4, type: 3}
+  - m_name: Tower2FlattenMask
+    m_id: -2147483322
+    m_guid: e0a8e8ab56ba71641b0ddde99bedbbcf
+    m_object: {fileID: 2800000, guid: e0a8e8ab56ba71641b0ddde99bedbbcf, type: 3}
+  - m_name: Non-Gena(Tower Gate No Drawbridge)
+    m_id: -2147483321
+    m_guid: d1c5f45e55049a14b94918ad2872ff7c
+    m_object: {fileID: 8938957890024305949, guid: d1c5f45e55049a14b94918ad2872ff7c, type: 3}
+  - m_name: Tower1FlattenMask
+    m_id: -2147483320
+    m_guid: 3a3ff25dbb4216c4bab08616cfdf2086
+    m_object: {fileID: 2800000, guid: 3a3ff25dbb4216c4bab08616cfdf2086, type: 3}
+  - m_name: Castle2TextureMask
+    m_id: -2147483319
+    m_guid: 11673b882ddce2b439f30dbaf8109fce
+    m_object: {fileID: 2800000, guid: 11673b882ddce2b439f30dbaf8109fce, type: 3}
+  - m_name: Tower2FlattenMask
+    m_id: -2147483318
+    m_guid: 88f89beefd2d0d241be50eaf9066e97f
+    m_object: {fileID: 2800000, guid: 88f89beefd2d0d241be50eaf9066e97f, type: 3}
+  - m_name: Tower1FlattenMask
+    m_id: -2147483317
+    m_guid: b430a2b8866784b419d93dafd2f0bd89
+    m_object: {fileID: 2800000, guid: b430a2b8866784b419d93dafd2f0bd89, type: 3}
+  - m_name: Castle2FlattenMask1
+    m_id: -2147483316
+    m_guid: a40d3e806feced042b266ba6185db165
+    m_object: {fileID: 2800000, guid: a40d3e806feced042b266ba6185db165, type: 3}
+  - m_name: LargeCliffFlatten
+    m_id: -2147483315
+    m_guid: 5d32cbe3b1660bd4992a62eceaa9a3e2
+    m_object: {fileID: 2800000, guid: 5d32cbe3b1660bd4992a62eceaa9a3e2, type: 3}
+  - m_name: Cliff_Side_02
+    m_id: -2147483314
+    m_guid: 8e21ad55e67a77a4bbc1c62757187580
+    m_object: {fileID: 2167900040818533850, guid: 8e21ad55e67a77a4bbc1c62757187580, type: 3}
+  - m_name: Stone_Pile_04_Sand
+    m_id: -2147483313
+    m_guid: 742f688cc32518d48b1e2efb846114e9
+    m_object: {fileID: 4488329390391109815, guid: 742f688cc32518d48b1e2efb846114e9, type: 3}
+  - m_name: Stone_Pile_02_Sand
+    m_id: -2147483312
+    m_guid: f4d1bc6c8cfb6534392d30d99d8f5481
+    m_object: {fileID: 8734326095302103388, guid: f4d1bc6c8cfb6534392d30d99d8f5481, type: 3}
+  - m_name: SandStone_Surface_01
+    m_id: -2147483311
+    m_guid: 4a6499340999eda4da0b8601a9dc65eb
+    m_object: {fileID: 5763905997123916998, guid: 4a6499340999eda4da0b8601a9dc65eb, type: 3}
+  - m_name: Cliff_Side_02_Sand
+    m_id: -2147483310
+    m_guid: 78cb1cdb24c818342b5ee565457b0266
+    m_object: {fileID: 2167900040818533850, guid: 78cb1cdb24c818342b5ee565457b0266, type: 3}
+  - m_name: Castle1FlattenMask1
+    m_id: -2147483309
+    m_guid: d4c456ab4d643d54d8060cdf7f673e41
+    m_object: {fileID: 2800000, guid: d4c456ab4d643d54d8060cdf7f673e41, type: 3}
+  - m_name: Village4FlattenMask
+    m_id: -2147483308
+    m_guid: de77115086d80c04798138cb360279b6
+    m_object: {fileID: 2800000, guid: de77115086d80c04798138cb360279b6, type: 3}
+  - m_name: Village4TextureMake
+    m_id: -2147483307
+    m_guid: b69b3b3f77543a443abea5026262330d
+    m_object: {fileID: 2800000, guid: b69b3b3f77543a443abea5026262330d, type: 3}
+  - m_name: Village3FlattenMask
+    m_id: -2147483306
+    m_guid: da0a5ee5835cb804399d211a4b3b8b0e
+    m_object: {fileID: 2800000, guid: da0a5ee5835cb804399d211a4b3b8b0e, type: 3}
+  - m_name: Village3TextureMask
+    m_id: -2147483305
+    m_guid: edaca1f88de133b47ac5fd5982444a3b
+    m_object: {fileID: 2800000, guid: edaca1f88de133b47ac5fd5982444a3b, type: 3}
+  - m_name: Village2FlattenMaska
+    m_id: -2147483304
+    m_guid: 2405d09da03e8b94e8fd6863d9292b6e
+    m_object: {fileID: 2800000, guid: 2405d09da03e8b94e8fd6863d9292b6e, type: 3}
+  - m_name: Village2TextureMask
+    m_id: -2147483303
+    m_guid: e5fe76512f7532840a077f5f200c48b1
+    m_object: {fileID: 2800000, guid: e5fe76512f7532840a077f5f200c48b1, type: 3}
+  - m_name: Bush01_03_b
+    m_id: -2147483302
+    m_guid: a2bffbec272964945afe7f75cd6b6072
+    m_object: {fileID: 100000, guid: a2bffbec272964945afe7f75cd6b6072, type: 3}
+  - m_name: Bush04_04
+    m_id: -2147483301
+    m_guid: b5101dfcb76f7574fab4d5cfc08b4845
+    m_object: {fileID: 100000, guid: b5101dfcb76f7574fab4d5cfc08b4845, type: 3}
+  - m_name: Bush02_03
+    m_id: -2147483300
+    m_guid: b518d245b9fa25a47aeed39ba63ad53c
+    m_object: {fileID: 100000, guid: b518d245b9fa25a47aeed39ba63ad53c, type: 3}
+  - m_name: Bush01_04_b
+    m_id: -2147483299
+    m_guid: 993bb04c20efebd46a986ac3572f786d
+    m_object: {fileID: 100000, guid: 993bb04c20efebd46a986ac3572f786d, type: 3}
+  - m_name: Bush02_05
+    m_id: -2147483298
+    m_guid: 4527825b342b8d34b9c454a48fee76a2
+    m_object: {fileID: 100000, guid: 4527825b342b8d34b9c454a48fee76a2, type: 3}
+  - m_name: Bush03_06_b
+    m_id: -2147483297
+    m_guid: d94f582d43518af4b94eaeefd722094e
+    m_object: {fileID: 100000, guid: d94f582d43518af4b94eaeefd722094e, type: 3}
+  - m_name: Bush01_03
+    m_id: -2147483296
+    m_guid: 7ec4e740d6051d14484fcd98b4f87e77
+    m_object: {fileID: 100000, guid: 7ec4e740d6051d14484fcd98b4f87e77, type: 3}
+  - m_name: Bush03_06
+    m_id: -2147483295
+    m_guid: afd3a5b5ea2c7694a847d23827bea6be
+    m_object: {fileID: 100000, guid: afd3a5b5ea2c7694a847d23827bea6be, type: 3}
+  - m_name: Bush03_09
+    m_id: -2147483294
+    m_guid: cb041e73ca429524383e4425bcfdb78e
+    m_object: {fileID: 100000, guid: cb041e73ca429524383e4425bcfdb78e, type: 3}
+  - m_name: CTent_01 1
+    m_id: -2147483293
+    m_guid: 851613283ab153244b838d6ae55a8d70
+    m_object: {fileID: 1459002704509242236, guid: 851613283ab153244b838d6ae55a8d70, type: 3}
+  - m_name: CTent_02 1
+    m_id: -2147483292
+    m_guid: 68f65b14929cd034ab7655d7d5809560
+    m_object: {fileID: 6486902747182109833, guid: 68f65b14929cd034ab7655d7d5809560, type: 3}
+  - m_name: CTent_03 1
+    m_id: -2147483291
+    m_guid: 5da6144bfac663f41a5e4ca6603ec3c1
+    m_object: {fileID: 8977623325225673800, guid: 5da6144bfac663f41a5e4ca6603ec3c1, type: 3}
+  - m_name: WoodenChest_01
+    m_id: -2147483290
+    m_guid: e1dc74c6a6b4e3f4c93a7034dad11ec2
+    m_object: {fileID: 8220512579061317268, guid: e1dc74c6a6b4e3f4c93a7034dad11ec2, type: 3}
+  - m_name: Barrel_A
+    m_id: -2147483289
+    m_guid: 4b6394134413d8b4cb61a836caf0bb8a
+    m_object: {fileID: 8957924949074149144, guid: 4b6394134413d8b4cb61a836caf0bb8a, type: 3}
+  - m_name: Bucket_01
+    m_id: -2147483288
+    m_guid: e7e38a9f6e2d3e6438f6caf11e50c495
+    m_object: {fileID: 385289919514360077, guid: e7e38a9f6e2d3e6438f6caf11e50c495, type: 3}
+  - m_name: Stool_01
+    m_id: -2147483287
+    m_guid: be0be17ed6ed4b54993f79fb7685aceb
+    m_object: {fileID: 4089170007219881049, guid: be0be17ed6ed4b54993f79fb7685aceb, type: 3}
+  - m_name: MageTowerFlattenMask
+    m_id: -2147483286
+    m_guid: 518d5a1b33afd934fb5c932e514cfcb3
+    m_object: {fileID: 2800000, guid: 518d5a1b33afd934fb5c932e514cfcb3, type: 3}
+  - m_name: Old_Cloth_01
+    m_id: -2147483285
+    m_guid: 6f79f250378d1934d892b561efcb9bbd
+    m_object: {fileID: 7134818547435570945, guid: 6f79f250378d1934d892b561efcb9bbd, type: 3}
+  - m_name: Latern_01
+    m_id: -2147483284
+    m_guid: 8b234ab2e6736ea488ecac94455693d4
+    m_object: {fileID: 2749385270694099165, guid: 8b234ab2e6736ea488ecac94455693d4, type: 3}
+  - m_name: Candle_01
+    m_id: -2147483283
+    m_guid: e82053a6a9d14df49bae2f756059e4fb
+    m_object: {fileID: 8351740132288310440, guid: e82053a6a9d14df49bae2f756059e4fb, type: 3}
+  - m_name: Candle_02
+    m_id: -2147483282
+    m_guid: 482ae260181d86945839cefd937a1219
+    m_object: {fileID: 4946070950000513981, guid: 482ae260181d86945839cefd937a1219, type: 3}
+  - m_name: Candle_03
+    m_id: -2147483281
+    m_guid: edc1bbc3c448de24097d19c6d46d9b5e
+    m_object: {fileID: 1039389164200597494, guid: edc1bbc3c448de24097d19c6d46d9b5e, type: 3}
+  - m_name: Candle_04
+    m_id: -2147483280
+    m_guid: 69cae0f3904958044be2b0b50a9d4668
+    m_object: {fileID: 3117141748438192415, guid: 69cae0f3904958044be2b0b50a9d4668, type: 3}
+  - m_name: Candle_05
+    m_id: -2147483279
+    m_guid: f40c05ecb9b256b46818f413dd296d08
+    m_object: {fileID: 8499943513416061079, guid: f40c05ecb9b256b46818f413dd296d08, type: 3}
+  - m_name: Dresser_01
+    m_id: -2147483278
+    m_guid: 750044a44c5f4a44ba6a85ea976ace13
+    m_object: {fileID: 4109850204675911148, guid: 750044a44c5f4a44ba6a85ea976ace13, type: 3}
+  - m_name: Dresser_01_V2
+    m_id: -2147483277
+    m_guid: 0698045073863a541b7777b0ddd342b0
+    m_object: {fileID: 2816771784233915592, guid: 0698045073863a541b7777b0ddd342b0, type: 3}
+  - m_name: Axe_01
+    m_id: -2147483276
+    m_guid: 67e0e3ae53f8edd458539e3ffeb9af04
+    m_object: {fileID: 2486383321456421844, guid: 67e0e3ae53f8edd458539e3ffeb9af04, type: 3}
+  - m_name: Shelf_02
+    m_id: -2147483275
+    m_guid: 3da8ae1dfb6834448b7b8b51773d43dd
+    m_object: {fileID: 3997352435676472708, guid: 3da8ae1dfb6834448b7b8b51773d43dd, type: 3}
+  - m_name: Bed_01
+    m_id: -2147483274
+    m_guid: 190d9dd614bafa74c945112675d4bf9b
+    m_object: {fileID: 4020051457890976621, guid: 190d9dd614bafa74c945112675d4bf9b, type: 3}
+  - m_name: Bed_02_a
+    m_id: -2147483273
+    m_guid: a7b9c58e2a606864ba76c877ab0f1529
+    m_object: {fileID: 7615953388198877938, guid: a7b9c58e2a606864ba76c877ab0f1529, type: 3}
+  - m_name: 'Bed_02_b '
+    m_id: -2147483272
+    m_guid: c61089a3561399948a05b2a975451e7b
+    m_object: {fileID: 5967171292050975776, guid: c61089a3561399948a05b2a975451e7b, type: 3}
+  - m_name: Bed_02_c
+    m_id: -2147483271
+    m_guid: fcbd2fb206dab8d4f9467fdbc8e0057e
+    m_object: {fileID: 2627504090173483667, guid: fcbd2fb206dab8d4f9467fdbc8e0057e, type: 3}
+  - m_name: CookingPot_01
+    m_id: -2147483270
+    m_guid: ea9f54d04c8117d45b2e94232e546bd5
+    m_object: {fileID: 5732659456254339822, guid: ea9f54d04c8117d45b2e94232e546bd5, type: 3}
+  - m_name: MageTower
+    m_id: -2147483269
+    m_guid: f9809cad9cb368b4fa20fe088eb1dd43
+    m_object: {fileID: 5665991362055125666, guid: f9809cad9cb368b4fa20fe088eb1dd43, type: 3}
+  - m_name: SmallCliffFlatten
+    m_id: -2147483268
+    m_guid: 928b8391c5c272b44a656c4e590fcf2f
+    m_object: {fileID: 2800000, guid: 928b8391c5c272b44a656c4e590fcf2f, type: 3}
+  - m_name: Rock_06
+    m_id: -2147483267
+    m_guid: 563af989015de94459a2b64c319d9107
+    m_object: {fileID: 83736873862211025, guid: 563af989015de94459a2b64c319d9107, type: 3}
+  - m_name: SmallCliff2Flatten
+    m_id: -2147483266
+    m_guid: c1c0a10cc078ba04b9e005b4cc763eb2
+    m_object: {fileID: 2800000, guid: c1c0a10cc078ba04b9e005b4cc763eb2, type: 3}
+  - m_name: Skeleton
+    m_id: -2147483265
+    m_guid: 1efe1eeac847bfa4c955c2e84551e39c
+    m_object: {fileID: 9211037381186979768, guid: 1efe1eeac847bfa4c955c2e84551e39c, type: 3}
+  - m_name: Old_Tower_01
+    m_id: -2147483264
+    m_guid: 0969b96dc7fc7c64fa7612bed402c428
+    m_object: {fileID: 984768658206211255, guid: 0969b96dc7fc7c64fa7612bed402c428, type: 3}
+  - m_name: Old_Tower_01_Moss
+    m_id: -2147483263
+    m_guid: be1327a23ae1dd041a1601b9adbf6b86
+    m_object: {fileID: 6187768083393682527, guid: be1327a23ae1dd041a1601b9adbf6b86, type: 3}
+  - m_name: Ruin_Fence_L_end
+    m_id: -2147483262
+    m_guid: f82cd722df7c66548a3b655e709d4730
+    m_object: {fileID: 6503219323937878565, guid: f82cd722df7c66548a3b655e709d4730, type: 3}
+  - m_name: Ruin_Fence_L_end 1
+    m_id: -2147483261
+    m_guid: 37e74e48d8400f746b26919d8b5f82ad
+    m_object: {fileID: 6503219323937878565, guid: 37e74e48d8400f746b26919d8b5f82ad, type: 3}
+  - m_name: Ruin_Fence_S_end
+    m_id: -2147483260
+    m_guid: f55570f87f331d740a61c25403ae7457
+    m_object: {fileID: 5834292056380777602, guid: f55570f87f331d740a61c25403ae7457, type: 3}
+  - m_name: RuinsFlattenMask
+    m_id: -2147483259
+    m_guid: 44cfb9ff8f432f249b35cf7805215927
+    m_object: {fileID: 2800000, guid: 44cfb9ff8f432f249b35cf7805215927, type: 3}
+  - m_name: OldBust&Plants
+    m_id: -2147483258
+    m_guid: aefdccc0f6975c44c8d00106ffc85f61
+    m_object: {fileID: 1369856672472327428, guid: aefdccc0f6975c44c8d00106ffc85f61, type: 3}
+  - m_name: Statue_02
+    m_id: -2147483257
+    m_guid: 2b440703b1234b04a976e02a6e38dc2e
+    m_object: {fileID: 989154621896444912, guid: 2b440703b1234b04a976e02a6e38dc2e, type: 3}
+  - m_name: Wall_Ruin_01
+    m_id: -2147483256
+    m_guid: e7147afd3bf42d849836c2911a00281e
+    m_object: {fileID: 7745721991501989622, guid: e7147afd3bf42d849836c2911a00281e, type: 3}
+  - m_name: Wall_Ruin_02
+    m_id: -2147483255
+    m_guid: 93dffd993e9915c4abe083e1b953fa1d
+    m_object: {fileID: 2886663961077868356, guid: 93dffd993e9915c4abe083e1b953fa1d, type: 3}
+  - m_name: Wall_Ruin_03
+    m_id: -2147483254
+    m_guid: 99f177cadf0921146b7ddcd8a26e2ae1
+    m_object: {fileID: 3085462837154249977, guid: 99f177cadf0921146b7ddcd8a26e2ae1, type: 3}
+  - m_name: Wall_Ruin_04
+    m_id: -2147483253
+    m_guid: 4bb13aeb1dad6744d8120d6a6476750a
+    m_object: {fileID: 337267347147817116, guid: 4bb13aeb1dad6744d8120d6a6476750a, type: 3}
+  - m_name: Wall_Ruin_05
+    m_id: -2147483252
+    m_guid: 1dbd48aa1d373844d9998f1407f63bf7
+    m_object: {fileID: 4796069280112289830, guid: 1dbd48aa1d373844d9998f1407f63bf7, type: 3}
+  - m_name: Ruin_Brick_Pile
+    m_id: -2147483251
+    m_guid: 1a5a02a22b93b6d40a46532e9d9fc34a
+    m_object: {fileID: 941339875743913995, guid: 1a5a02a22b93b6d40a46532e9d9fc34a, type: 3}
+  - m_name: Ruin_Brick_Pile_b
+    m_id: -2147483250
+    m_guid: ef22821e502932043bcb0124ef9b791b
+    m_object: {fileID: 6424957982361829529, guid: ef22821e502932043bcb0124ef9b791b, type: 3}
+  - m_name: GraveyardFlattenMask
+    m_id: -2147483249
+    m_guid: 29c1d31ce3f33fd48b8a5d1b0234b363
+    m_object: {fileID: 2800000, guid: 29c1d31ce3f33fd48b8a5d1b0234b363, type: 3}
+  - m_name: Tombstone_02
+    m_id: -2147483248
+    m_guid: f3ac2368cbdc11c469926dadcc4c28db
+    m_object: {fileID: 2917290238649051270, guid: f3ac2368cbdc11c469926dadcc4c28db, type: 3}
+  - m_name: Tombstone_03
+    m_id: -2147483247
+    m_guid: 1372eaaf7a2d4d14abe4d41d5c464d55
+    m_object: {fileID: 8654951765062162781, guid: 1372eaaf7a2d4d14abe4d41d5c464d55, type: 3}
+  - m_name: Tombstone_01
+    m_id: -2147483246
+    m_guid: def2ba207553a634b97a6602837c656b
+    m_object: {fileID: 2966200914264571157, guid: def2ba207553a634b97a6602837c656b, type: 3}
+  - m_name: Tombstone_04
+    m_id: -2147483245
+    m_guid: fb9f93e895f2c5b43a23b81676096de5
+    m_object: {fileID: 7505939893195920011, guid: fb9f93e895f2c5b43a23b81676096de5, type: 3}
+  - m_name: Gargoyle
+    m_id: -2147483244
+    m_guid: 34e6c0311cbcab243a77bc0ad1f75e48
+    m_object: {fileID: 8979108086662055825, guid: 34e6c0311cbcab243a77bc0ad1f75e48, type: 3}
+  - m_name: Ruin_Fence_L
+    m_id: -2147483243
+    m_guid: eb42c46ecf35ef14f8318d16148508ab
+    m_object: {fileID: 2965222747103106202, guid: eb42c46ecf35ef14f8318d16148508ab, type: 3}
+  - m_name: Ruin_Fence_S
+    m_id: -2147483242
+    m_guid: 9f69c5e536779b049b4f769a8fc869f3
+    m_object: {fileID: 7701183897156126022, guid: 9f69c5e536779b049b4f769a8fc869f3, type: 3}
+  - m_name: Ruin_Fence_L_Middle
+    m_id: -2147483241
+    m_guid: df027d7c8788ad54fac000a33687171d
+    m_object: {fileID: 2965222747103106202, guid: df027d7c8788ad54fac000a33687171d, type: 3}
+  - m_name: Ruin_Gate
+    m_id: -2147483240
+    m_guid: 5f49a30595edbb94da6f04d4b93f6d4f
+    m_object: {fileID: 5569967854613562495, guid: 5f49a30595edbb94da6f04d4b93f6d4f, type: 3}
+  - m_name: Curbstone_02
+    m_id: -2147483239
+    m_guid: ad93f8b748461ca488f66a2d3114081f
+    m_object: {fileID: 5063078166790088598, guid: ad93f8b748461ca488f66a2d3114081f, type: 3}
+  - m_name: Curbstone_01
+    m_id: -2147483238
+    m_guid: 0d04d58a7af0c1047aaaf3b7398af56e
+    m_object: {fileID: 1636435979849441190, guid: 0d04d58a7af0c1047aaaf3b7398af56e, type: 3}
+  - m_name: Curbstone_03
+    m_id: -2147483237
+    m_guid: 3a638c90e97045548b3ab352b09dabe5
+    m_object: {fileID: 8525823562720424890, guid: 3a638c90e97045548b3ab352b09dabe5, type: 3}
+  - m_name: Moss_Surface_01
+    m_id: -2147483236
+    m_guid: f6caf79260eafb74fa3252490c039fd6
+    m_object: {fileID: 1318893237284135959, guid: f6caf79260eafb74fa3252490c039fd6, type: 3}
+  - m_name: Ruin_Wall_03
+    m_id: -2147483235
+    m_guid: a8ab5b5120a70b74499eb6898017ed01
+    m_object: {fileID: 205846789597308116, guid: a8ab5b5120a70b74499eb6898017ed01, type: 3}
+  - m_name: SmallStairs_01
+    m_id: -2147483234
+    m_guid: c86fbddeb69bbdf4abccc5b1b9d3cbb8
+    m_object: {fileID: 919132149155446097, guid: c86fbddeb69bbdf4abccc5b1b9d3cbb8, type: 3}
+  - m_name: Ruin_Wall_02
+    m_id: -2147483233
+    m_guid: 6226297150672a64f92af75dd7d7e839
+    m_object: {fileID: 7491374529589508498, guid: 6226297150672a64f92af75dd7d7e839, type: 3}
+  - m_name: Ruin_Pillar_01
+    m_id: -2147483232
+    m_guid: 162772ef150cf9446b9fcadd48fea609
+    m_object: {fileID: 551994325932343041, guid: 162772ef150cf9446b9fcadd48fea609, type: 3}
+  - m_name: Wood_02_A
+    m_id: -2147483231
+    m_guid: 20f32e90916e2db488649950da8b2715
+    m_object: {fileID: 4328177102753462358, guid: 20f32e90916e2db488649950da8b2715, type: 3}
+  - m_name: Wood_01
+    m_id: -2147483230
+    m_guid: 7feb6a7a7ad78e540a1067184d160306
+    m_object: {fileID: 1251300247064630143, guid: 7feb6a7a7ad78e540a1067184d160306, type: 3}
+  - m_name: Graveyard FX
+    m_id: -2147483229
+    m_guid: ae8d1f3ef7e2d4e4284725c7b163b846
+    m_object: {fileID: 2894546767869288791, guid: ae8d1f3ef7e2d4e4284725c7b163b846, type: 3}
+  - m_name: Beech_01
+    m_id: -2147483228
+    m_guid: 708e5350f832c3943a3ee38beb7fb4c5
+    m_object: {fileID: 100000, guid: 708e5350f832c3943a3ee38beb7fb4c5, type: 3}
+  - m_name: Beech_08
+    m_id: -2147483227
+    m_guid: 56c22cdfb1e7a2146bb1e6aa1e86de95
+    m_object: {fileID: 100000, guid: 56c22cdfb1e7a2146bb1e6aa1e86de95, type: 3}
+  - m_name: Beech_17
+    m_id: -2147483226
+    m_guid: c5b63f5ebd50bc0459ddcf032bbc65c1
+    m_object: {fileID: 100000, guid: c5b63f5ebd50bc0459ddcf032bbc65c1, type: 3}
+  - m_name: Beech_20
+    m_id: -2147483225
+    m_guid: 45e94749ba3a3c74895aa01da2eda65f
+    m_object: {fileID: 100000, guid: 45e94749ba3a3c74895aa01da2eda65f, type: 3}
+  - m_name: Bush01_03_b
+    m_id: -2147483224
+    m_guid: dee7901df5525c34eb699108c7b872f7
+    m_object: {fileID: 100000, guid: dee7901df5525c34eb699108c7b872f7, type: 3}
+  - m_name: Bush01_03
+    m_id: -2147483223
+    m_guid: d6bf7de9c070ac04e8314b0ea85ba0f7
+    m_object: {fileID: 100000, guid: d6bf7de9c070ac04e8314b0ea85ba0f7, type: 3}
+  - m_name: Bush03_06
+    m_id: -2147483222
+    m_guid: 6a9914c5a4fe9834cad011c3756ea299
+    m_object: {fileID: 100000, guid: 6a9914c5a4fe9834cad011c3756ea299, type: 3}
+  - m_name: Bush03_09
+    m_id: -2147483221
+    m_guid: 760c982bf44d4594e84c6e4ebe86e5f3
+    m_object: {fileID: 100000, guid: 760c982bf44d4594e84c6e4ebe86e5f3, type: 3}
+  - m_name: Bush01_04
+    m_id: -2147483220
+    m_guid: c7d38bee4cfb69a429d16f8c406f62fd
+    m_object: {fileID: 100000, guid: c7d38bee4cfb69a429d16f8c406f62fd, type: 3}
+  - m_name: Bush02_03
+    m_id: -2147483219
+    m_guid: 638c74c3bfc3c1b46937822670dc3100
+    m_object: {fileID: 100000, guid: 638c74c3bfc3c1b46937822670dc3100, type: 3}
+  - m_name: Bush01_04_b
+    m_id: -2147483218
+    m_guid: 35b76e2a59d5b0f46b254e1adce9456e
+    m_object: {fileID: 100000, guid: 35b76e2a59d5b0f46b254e1adce9456e, type: 3}
+  - m_name: Bush02_05
+    m_id: -2147483217
+    m_guid: 620279dd5d8e564459482d1038ef77ec
+    m_object: {fileID: 100000, guid: 620279dd5d8e564459482d1038ef77ec, type: 3}
+  - m_name: Bush03_06_b
+    m_id: -2147483216
+    m_guid: 5c9ade220360ccf4b8b24a2d072c19bd
+    m_object: {fileID: 100000, guid: 5c9ade220360ccf4b8b24a2d072c19bd, type: 3}
+  - m_name: Conifer_01
+    m_id: -2147483215
+    m_guid: 36b7a3a92922cdd4883c65a6f6b891ad
+    m_object: {fileID: 100000, guid: 36b7a3a92922cdd4883c65a6f6b891ad, type: 3}
+  - m_name: Conifer_02
+    m_id: -2147483214
+    m_guid: a0b971b6df035b64f82adbdb2aa55f3e
+    m_object: {fileID: 100000, guid: a0b971b6df035b64f82adbdb2aa55f3e, type: 3}
+  - m_name: Conifer_04
+    m_id: -2147483213
+    m_guid: b3af813ae867a21479c9f19f23123424
+    m_object: {fileID: 100000, guid: b3af813ae867a21479c9f19f23123424, type: 3}
+  - m_name: Conifer_05
+    m_id: -2147483212
+    m_guid: d7a51f41995285f4f9b1fa1fded26a24
+    m_object: {fileID: 100000, guid: d7a51f41995285f4f9b1fa1fded26a24, type: 3}
+  - m_name: Conifer_06
+    m_id: -2147483211
+    m_guid: 961c9948a74086340a05ff1274ebb491
+    m_object: {fileID: 100000, guid: 961c9948a74086340a05ff1274ebb491, type: 3}
+  - m_name: Conifer_07_a
+    m_id: -2147483210
+    m_guid: ecd52fc6859540247aff417f37a53372
+    m_object: {fileID: 100000, guid: ecd52fc6859540247aff417f37a53372, type: 3}
+  - m_name: Conifer_28_a
+    m_id: -2147483209
+    m_guid: 02bee977aaea6ba488c95b6dcffdf439
+    m_object: {fileID: 100000, guid: 02bee977aaea6ba488c95b6dcffdf439, type: 3}
+  - m_name: Oak_01
+    m_id: -2147483208
+    m_guid: e926b702a0161a640990ab36a57b6bb8
+    m_object: {fileID: 100000, guid: e926b702a0161a640990ab36a57b6bb8, type: 3}
+  - m_name: Oak_05
+    m_id: -2147483207
+    m_guid: bc0cf32cc0c510f4aa1ecee7fb533033
+    m_object: {fileID: 100000, guid: bc0cf32cc0c510f4aa1ecee7fb533033, type: 3}
+  - m_name: Oak_09b
+    m_id: -2147483206
+    m_guid: 4c49cd0a2f33c9240802bd6903664231
+    m_object: {fileID: 100000, guid: 4c49cd0a2f33c9240802bd6903664231, type: 3}
+  - m_name: Oak_13a
+    m_id: -2147483205
+    m_guid: fd57cc4c6e97a884fbcfb842ef9e92ea
+    m_object: {fileID: 100000, guid: fd57cc4c6e97a884fbcfb842ef9e92ea, type: 3}
+  - m_name: A_Beech_01
+    m_id: -2147483204
+    m_guid: 03b21c90dcf2a244baf2a9e4fb2983c3
+    m_object: {fileID: 2797033557907080616, guid: 03b21c90dcf2a244baf2a9e4fb2983c3, type: 3}
+  - m_name: A_Beech_08
+    m_id: -2147483203
+    m_guid: 62fc39767dbc3604cac78fa83011c1af
+    m_object: {fileID: 5571476490136136586, guid: 62fc39767dbc3604cac78fa83011c1af, type: 3}
+  - m_name: A_Beech_17
+    m_id: -2147483202
+    m_guid: 4e06b4f899cb76840a93f835cde623b9
+    m_object: {fileID: 4926281482557114196, guid: 4e06b4f899cb76840a93f835cde623b9, type: 3}
+  - m_name: A_Beech_20
+    m_id: -2147483201
+    m_guid: 5c4071cf1da0bc34180d6d359dcf5df1
+    m_object: {fileID: 3226628103793813053, guid: 5c4071cf1da0bc34180d6d359dcf5df1, type: 3}
+  - m_name: Beech_01
+    m_id: -2147483200
+    m_guid: 25642a487c1038e438ffc7ab52aca354
+    m_object: {fileID: 8189823933099582401, guid: 25642a487c1038e438ffc7ab52aca354, type: 3}
+  - m_name: Beech_08
+    m_id: -2147483199
+    m_guid: 4ca203e88bc31a34ea78bf141c31952b
+    m_object: {fileID: 4014967662592437565, guid: 4ca203e88bc31a34ea78bf141c31952b, type: 3}
+  - m_name: Beech_17
+    m_id: -2147483198
+    m_guid: 242f61a080ec8084eb09c4c6d666e541
+    m_object: {fileID: 8682607614815822093, guid: 242f61a080ec8084eb09c4c6d666e541, type: 3}
+  - m_name: Beech_20
+    m_id: -2147483197
+    m_guid: e2895b48a2c8bd54cb9a94d39738838f
+    m_object: {fileID: 1462653546025030923, guid: e2895b48a2c8bd54cb9a94d39738838f, type: 3}
+  - m_name: Bush01_03_b
+    m_id: -2147483196
+    m_guid: 99fedab258a33c64b8f1658765dd9ca0
+    m_object: {fileID: 3495776945597030659, guid: 99fedab258a33c64b8f1658765dd9ca0, type: 3}
+  - m_name: Bush01_03
+    m_id: -2147483195
+    m_guid: 67f5074fd67a8274d873a687ad07b3f0
+    m_object: {fileID: 3674180561946240775, guid: 67f5074fd67a8274d873a687ad07b3f0, type: 3}
+  - m_name: Bush03_06
+    m_id: -2147483194
+    m_guid: 015665794737b8a4cb0246f4611163d8
+    m_object: {fileID: 973040672745548972, guid: 015665794737b8a4cb0246f4611163d8, type: 3}
+  - m_name: Bush03_09
+    m_id: -2147483193
+    m_guid: 35eb1f475771d22439b0586f841edfd6
+    m_object: {fileID: 6490792954510164437, guid: 35eb1f475771d22439b0586f841edfd6, type: 3}
+  - m_name: Bush01_04
+    m_id: -2147483192
+    m_guid: ccf5426573d4dca49aadeca3ce31fda3
+    m_object: {fileID: 670271871993803260, guid: ccf5426573d4dca49aadeca3ce31fda3, type: 3}
+  - m_name: Bush01_04_b
+    m_id: -2147483191
+    m_guid: d53e9b2b10f233f4d968455b38b94875
+    m_object: {fileID: 8323008787954747901, guid: d53e9b2b10f233f4d968455b38b94875, type: 3}
+  - m_name: Bush02_05
+    m_id: -2147483190
+    m_guid: c77310ba7e5f3804e94ecc234a3b4dc7
+    m_object: {fileID: 4295134028065133920, guid: c77310ba7e5f3804e94ecc234a3b4dc7, type: 3}
+  - m_name: Bush03_06_b
+    m_id: -2147483189
+    m_guid: 0fb44d0c1025bc940a0ac31c74b8e090
+    m_object: {fileID: 1415254563541036805, guid: 0fb44d0c1025bc940a0ac31c74b8e090, type: 3}
+  - m_name: Conifer_01
+    m_id: -2147483188
+    m_guid: 43673a0cd39a9bf4a8d91ff8448d49b2
+    m_object: {fileID: 4334154773308935898, guid: 43673a0cd39a9bf4a8d91ff8448d49b2, type: 3}
+  - m_name: Conifer_02
+    m_id: -2147483187
+    m_guid: 5db9ec6fa32247f4db7a2c7b4371f361
+    m_object: {fileID: 9150363732610105001, guid: 5db9ec6fa32247f4db7a2c7b4371f361, type: 3}
+  - m_name: Conifer_04
+    m_id: -2147483186
+    m_guid: cf05466fa79edaa49a97ccdcef8cdc44
+    m_object: {fileID: 176869048023614598, guid: cf05466fa79edaa49a97ccdcef8cdc44, type: 3}
+  - m_name: Conifer_05
+    m_id: -2147483185
+    m_guid: de8ec1e3ab4516d42a12a67192ebec24
+    m_object: {fileID: 8761179699945057961, guid: de8ec1e3ab4516d42a12a67192ebec24, type: 3}
+  - m_name: Conifer_06
+    m_id: -2147483184
+    m_guid: 35c7c2b15b63fb246a79f3b8cd465af6
+    m_object: {fileID: 5158220203440594461, guid: 35c7c2b15b63fb246a79f3b8cd465af6, type: 3}
+  - m_name: Conifer_07_a
+    m_id: -2147483183
+    m_guid: e506b51cec1309644b29928aa07478de
+    m_object: {fileID: 694696426485924687, guid: e506b51cec1309644b29928aa07478de, type: 3}
+  - m_name: Conifer_28_a
+    m_id: -2147483182
+    m_guid: dd95e556d3279b545b2ef4ec12ac29ad
+    m_object: {fileID: 619601287630055986, guid: dd95e556d3279b545b2ef4ec12ac29ad, type: 3}
+  - m_name: Oak_01
+    m_id: -2147483181
+    m_guid: 64df5f9b22cfa954495885b2e792d790
+    m_object: {fileID: 6433489470020686271, guid: 64df5f9b22cfa954495885b2e792d790, type: 3}
+  - m_name: Oak_05
+    m_id: -2147483180
+    m_guid: 98b93ea01bd488d438f4863331c9d268
+    m_object: {fileID: 3509480548057759490, guid: 98b93ea01bd488d438f4863331c9d268, type: 3}
+  - m_name: Oak_09b
+    m_id: -2147483179
+    m_guid: aa5d2c3e1c174f54987a584bb164afa0
+    m_object: {fileID: 6872915803476086128, guid: aa5d2c3e1c174f54987a584bb164afa0, type: 3}
+  - m_name: Oak_13a
+    m_id: -2147483178
+    m_guid: 2399e0ac218bb8c41891e710cacc2f4e
+    m_object: {fileID: 2058073337132140527, guid: 2399e0ac218bb8c41891e710cacc2f4e, type: 3}
+  - m_name: Bush01_04
+    m_id: -2147483177
+    m_guid: 9ecedfd5eb8757141acad6d8c72ead8b
+    m_object: {fileID: 100000, guid: 9ecedfd5eb8757141acad6d8c72ead8b, type: 3}
+  - m_name: Oak_09a
+    m_id: -2147483176
+    m_guid: 8197729622cf86d4597031cbbdeb5345
+    m_object: {fileID: 100000, guid: 8197729622cf86d4597031cbbdeb5345, type: 3}
+  - m_name: Well Obj
+    m_id: -2147483175
+    m_guid: fde03befcf6f2524081fd18526f1ee66
+    m_object: {fileID: 1472300011104779231, guid: fde03befcf6f2524081fd18526f1ee66, type: 3}
