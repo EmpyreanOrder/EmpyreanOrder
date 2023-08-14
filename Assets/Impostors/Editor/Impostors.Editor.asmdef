@@ -1,0 +1,25 @@
+{
+    "name": "Impostors.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Impostors",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.3.1",
+            "define": "IMPOSTORS_UNITY_PIPELINE_URP"
+        }
+    ],
+    "noEngineReferences": false
+}

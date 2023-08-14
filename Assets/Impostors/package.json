@@ -1,0 +1,25 @@
+{
+  "name": "com.starasgames.impostors",
+  "version": "2.0.0",
+  "displayName": "Impostors",
+  "description": "This package provides solution for realtime impostors creation.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.burst": "1.4.6",
+    "com.unity.collections": "0.9.0-preview.6",
+    "com.unity.mathematics": "1.2.1"
+  },
+  "keywords": [
+    "impostor",
+    "imposter",
+    "LOD",
+    "optimization",
+    "billboard"
+  ],
+  "author": {
+    "name": "STARasGAMES",
+    "email": "doterpoter@gmail.com",
+    "url": "https://forum.unity.com/threads/759110"
+  },
+  "type": "tool"
+}
