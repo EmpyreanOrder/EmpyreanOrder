@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 986065f450cf9d847b6a05e4cfdcc09c, type: 3}
+  m_Name: Defaults Profile
+  m_EditorClassIdentifier: 
+  m_timeOfDayProfile: {fileID: 11400000, guid: 4683ac98bd07429479caef286958c781, type: 2}
+  m_postProcessingProfile: {fileID: 11400000, guid: 4b170d342aceedd4fb6d0061f34165d9, type: 2}
+  m_ambientAudioProfile: {fileID: 11400000, guid: e76928be1c199904281c5aec7ca1a701, type: 2}
+  m_startingTimeOfDay: 8
+  m_startingDirection: 20
+  m_startingHorizonOffset: 0.1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b278c23de4a0534fbc94bf0f0370509, type: 3}
+  m_Name: HDRP Time Of Day Ambient Profile
+  m_EditorClassIdentifier: 
+  m_morningAmbient: {fileID: 8300000, guid: 2c20a7793b8880a4787fd7a24036663f, type: 3}
+  m_afternoonAmbient: {fileID: 8300000, guid: 253e0138ab9ea684cbf525f37923b595, type: 3}
+  m_eveningAmbient: {fileID: 8300000, guid: 3a0dd2bfddf55f747bcfc7925c2640c4, type: 3}
+  m_nightAmbient: {fileID: 8300000, guid: 9ebcb7af51ae1964fa6e010748771eea, type: 3}
+  m_masterVolume: 0.25
+  m_timeOfDayIntervals: {x: 0.25, y: 0.5, z: 0.7, w: 0.77}
