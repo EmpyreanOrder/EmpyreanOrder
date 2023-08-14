@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53b6803754c30d4fafeac19b23db57b, type: 3}
+  m_Name: RainBGLoopHDR
+  m_EditorClassIdentifier: 
+  template: {fileID: 0}
+  bus: {fileID: 11400000, guid: fdce15b11a02f294f9990dc14eb53bab, type: 2}
+  AudioClips:
+  - clip: {fileID: 8300000, guid: 80bd456b41b5f484d8057593d8302c3f, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    bakeTimestamp:
+      first: -1536884736
+      second: 65535
+    HDRCurve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -36.7366791
+        inSlope: 1.15625763
+        outSlope: 1.15625763
+        tangentMode: 0
+      - time: 1
+        value: -35.5804214
+        inSlope: .109891891
+        outSlope: .109891891
+        tangentMode: 0
+      - time: 2
+        value: -36.5168953
+        inSlope: .14825058
+        outSlope: .14825058
+        tangentMode: 0
+      - time: 3
+        value: -35.2839203
+        inSlope: .722238541
+        outSlope: .722238541
+        tangentMode: 0
+      - time: 4
+        value: -35.0724182
+        inSlope: .0396633148
+        outSlope: .0396633148
+        tangentMode: 0
+      - time: 5
+        value: -35.2045937
+        inSlope: -.00449180603
+        outSlope: -.00449180603
+        tangentMode: 0
+      - time: 6
+        value: -35.0814018
+        inSlope: -.437833786
+        outSlope: -.437833786
+        tangentMode: 0
+      - time: 7
+        value: -36.0802612
+        inSlope: -.155923843
+        outSlope: -.155923843
+        tangentMode: 0
+      - time: 8
+        value: -35.3932495
+        inSlope: -.209594727
+        outSlope: -.209594727
+        tangentMode: 0
+      - time: 9
+        value: -36.4994507
+        inSlope: -.293457031
+        outSlope: -.293457031
+        tangentMode: 0
+      - time: 10
+        value: -35.9801636
+        inSlope: .0355587006
+        outSlope: .0355587006
+        tangentMode: 0
+      - time: 11
+        value: -36.4283333
+        inSlope: .0515594482
+        outSlope: .0515594482
+        tangentMode: 0
+      - time: 12
+        value: -35.8770447
+        inSlope: .159049988
+        outSlope: .159049988
+        tangentMode: 0
+      - time: 13
+        value: -36.1102333
+        inSlope: -.315507889
+        outSlope: -.315507889
+        tangentMode: 0
+      - time: 14
+        value: -36.5080605
+        inSlope: -.166982651
+        outSlope: -.166982651
+        tangentMode: 0
+      - time: 15
+        value: -36.4441986
+        inSlope: .270332336
+        outSlope: .270332336
+        tangentMode: 0
+      - time: 16
+        value: -35.9673958
+        inSlope: .134944916
+        outSlope: .134944916
+        tangentMode: 0
+      - time: 17
+        value: -36.1743088
+        inSlope: .245210648
+        outSlope: .245210648
+        tangentMode: 0
+      - time: 18
+        value: -35.4769745
+        inSlope: -.206228256
+        outSlope: -.206228256
+        tangentMode: 0
+      - time: 19
+        value: -36.5867653
+        inSlope: .0154380798
+        outSlope: .0154380798
+        tangentMode: 0
+      - time: 20
+        value: -35.4460983
+        inSlope: .089056015
+        outSlope: .089056015
+        tangentMode: 0
+      - time: 21
+        value: -36.4086533
+        inSlope: -.116182327
+        outSlope: -.116182327
+        tangentMode: 0
+      - time: 22
+        value: -35.678463
+        inSlope: -.126750946
+        outSlope: -.126750946
+        tangentMode: 0
+      - time: 23
+        value: -36.6621552
+        inSlope: -.439407349
+        outSlope: -.439407349
+        tangentMode: 0
+      - time: 24
+        value: -36.5572777
+        inSlope: -.0372619629
+        outSlope: -.0372619629
+        tangentMode: 0
+      - time: 25
+        value: -36.7366791
+        inSlope: -.179401398
+        outSlope: -.179401398
+        tangentMode: 0
+      - time: 26
+        value: -36.7366791
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 1
+      m_PostInfinity: 1
+  PlaybackMode: 0
+  HDR: 1
+  Loudness: {x: 40, y: 40}
+  Volume: {x: 1, y: 1}
+  Pitch: {x: 1, y: 1}
+  Loops: 1
+  Priority: 128
+  BypassEffects: 0
+  MaxInstances: 10
+  FadeInTime: 0
+  FadeOutTime: 0
+  Spatialization: 0
+  Spread: 0
+  Pan2D: 0
+  Falloff: 0
+  MaxDistance: 100
+  MinDistance: 10
+  DopplerLevel: 1
+  ProximityLimit: 0
+  ProximityRange: 10
+  OcclusionScale: 1
+  PlayProbability: 1
+  Delay: {x: 0, y: 0}

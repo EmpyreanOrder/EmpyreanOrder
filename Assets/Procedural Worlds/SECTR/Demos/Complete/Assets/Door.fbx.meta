@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 8adbc06e9944d24429d69962e4c88786
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: b_vertslide
+    100002: b_vertslide 1
+    100004: b_vertslide_base
+    100006: center_doordisc
+    100008: center_doordisc 1
+    100010: centerdisc_base
+    100012: //RootNode
+    100014: doorRoot
+    100016: doorRoot1
+    100018: lb_doordisc
+    100020: lb_doordisc 1
+    100022: lb_doordisc_base
+    100024: lt_doordisc
+    100026: lt_doordisc 1
+    100028: lt_doordisc_base
+    100030: rb_doordisc
+    100032: rb_doordisc 1
+    100034: rb_doordisc_base
+    100036: rt_doordisc
+    100038: rt_doordisc 1
+    100040: rt_doordisc_base
+    100042: slideleft
+    100044: slideleft1_base
+    100046: slideleft2
+    100048: slideleft2 1
+    100050: slideleft2 2
+    100052: slideleft2_base
+    100054: slideright1
+    100056: slideright1 1
+    100058: slideright1_base
+    100060: SlideRight2
+    100062: SlideRight2 1
+    100064: slideright2_base
+    100066: t_vertslide
+    100068: t_vertslide 1
+    100070: t_vertslide_base
+    100072: door_top
+    100074: sectr_a
+    100076: sectr_b
+    100078: BottomCollision
+    100080: TopCollision
+    100082: CenterDisk
+    100084: DoorBottom
+    100086: DoorTop
+    100088: LowerLeftBar
+    100090: LowerLeftDisc
+    100092: LowerRightBar
+    100094: LowerRightDisc
+    100096: UpperLeftBar
+    100098: UpperLeftDisc
+    100100: UpperRightBar
+    100102: UpperRightDisc
+    400000: b_vertslide
+    400002: b_vertslide 1
+    400004: b_vertslide_base
+    400006: center_doordisc
+    400008: center_doordisc 1
+    400010: centerdisc_base
+    400012: //RootNode
+    400014: doorRoot
+    400016: doorRoot1
+    400018: lb_doordisc
+    400020: lb_doordisc 1
+    400022: lb_doordisc_base
+    400024: lt_doordisc
+    400026: lt_doordisc 1
+    400028: lt_doordisc_base
+    400030: rb_doordisc
+    400032: rb_doordisc 1
+    400034: rb_doordisc_base
+    400036: rt_doordisc
+    400038: rt_doordisc 1
+    400040: rt_doordisc_base
+    400042: slideleft
+    400044: slideleft1_base
+    400046: slideleft2
+    400048: slideleft2 1
+    400050: slideleft2 2
+    400052: slideleft2_base
+    400054: slideright1
+    400056: slideright1 1
+    400058: slideright1_base
+    400060: SlideRight2
+    400062: SlideRight2 1
+    400064: slideright2_base
+    400066: t_vertslide
+    400068: t_vertslide 1
+    400070: t_vertslide_base
+    400072: door_top
+    400074: sectr_a
+    400076: sectr_b
+    400078: BottomCollision
+    400080: TopCollision
+    400082: CenterDisk
+    400084: DoorBottom
+    400086: DoorTop
+    400088: LowerLeftBar
+    400090: LowerLeftDisc
+    400092: LowerRightBar
+    400094: LowerRightDisc
+    400096: UpperLeftBar
+    400098: UpperLeftDisc
+    400100: UpperRightBar
+    400102: UpperRightDisc
+    2300000: b_vertslide 1
+    2300002: center_doordisc 1
+    2300004: doorRoot1
+    2300006: lb_doordisc 1
+    2300008: lt_doordisc 1
+    2300010: rb_doordisc 1
+    2300012: rt_doordisc 1
+    2300014: slideleft
+    2300016: slideleft2 2
+    2300018: slideright1 1
+    2300020: SlideRight2 1
+    2300022: t_vertslide 1
+    2300024: door_top
+    2300026: sectr_a
+    2300028: sectr_b
+    2300030: BottomCollision
+    2300032: TopCollision
+    2300034: CenterDisk
+    2300036: //RootNode
+    2300038: DoorBottom
+    2300040: DoorTop
+    2300042: LowerLeftBar
+    2300044: LowerLeftDisc
+    2300046: LowerRightBar
+    2300048: LowerRightDisc
+    2300050: UpperLeftBar
+    2300052: UpperLeftDisc
+    2300054: UpperRightBar
+    2300056: UpperRightDisc
+    3300000: b_vertslide 1
+    3300002: center_doordisc 1
+    3300004: doorRoot1
+    3300006: lb_doordisc 1
+    3300008: lt_doordisc 1
+    3300010: rb_doordisc 1
+    3300012: rt_doordisc 1
+    3300014: slideleft
+    3300016: slideleft2 2
+    3300018: slideright1 1
+    3300020: SlideRight2 1
+    3300022: t_vertslide 1
+    3300024: door_top
+    3300026: sectr_a
+    3300028: sectr_b
+    3300030: BottomCollision
+    3300032: TopCollision
+    3300034: CenterDisk
+    3300036: //RootNode
+    3300038: DoorBottom
+    3300040: DoorTop
+    3300042: LowerLeftBar
+    3300044: LowerLeftDisc
+    3300046: LowerRightBar
+    3300048: LowerRightDisc
+    3300050: UpperLeftBar
+    3300052: UpperLeftDisc
+    3300054: UpperRightBar
+    3300056: UpperRightDisc
+    4300000: rb_doordisc
+    4300002: lb_doordisc
+    4300004: lt_doordisc
+    4300006: rt_doordisc
+    4300008: slideleft
+    4300010: SlideRight2
+    4300012: slideleft2
+    4300014: slideright1
+    4300016: center_doordisc
+    4300018: b_vertslide
+    4300020: t_vertslide
+    4300022: doorRoot1
+    4300024: sectr_b
+    4300026: sectr_a
+    4300028: door_top
+    4300030: BottomCollision
+    4300032: TopCollision
+    4300034: DoorFrame
+    4300036: DoorTop
+    4300038: DoorBottom
+    4300040: CenterDisk
+    4300042: UpperRightBar
+    4300044: LowerRightBar
+    4300046: UpperLeftBar
+    4300048: LowerLeftBar
+    4300050: UpperRightDisc
+    4300052: LowerRightDisc
+    4300054: UpperLeftDisc
+    4300056: LowerLeftDisc
+    6400000: b_vertslide 1
+    6400002: center_doordisc 1
+    6400004: door_top
+    6400006: doorRoot1
+    6400008: lb_doordisc 1
+    6400010: lt_doordisc 1
+    6400012: rb_doordisc 1
+    6400014: rt_doordisc 1
+    6400016: sectr_a
+    6400018: sectr_b
+    6400020: slideleft
+    6400022: slideleft2 2
+    6400024: slideright1 1
+    6400026: SlideRight2 1
+    7400000: Closed
+    7400002: Opening
+    7400004: Open
+    7400006: Closing
+    7400008: Loading
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Closed
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: Opening
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: Open
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: Closing
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: Loading
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53b6803754c30d4fafeac19b23db57b, type: 3}
+  m_Name: CubeImpact
+  m_EditorClassIdentifier: 
+  template: {fileID: 0}
+  bus: {fileID: 11400000, guid: fb22db673da66dd42854637b22be326f, type: 2}
+  AudioClips:
+  - clip: {fileID: 8300000, guid: 9b10c26e3e41c564b96d220e70155329, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    hdrKeys: []
+    bakeTimestamp:
+      first: 0
+      second: 0
+  - clip: {fileID: 8300000, guid: 7a0b71ad4097cda4dbfa9501a42eeea7, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    hdrKeys: []
+    bakeTimestamp:
+      first: 0
+      second: 0
+  - clip: {fileID: 8300000, guid: f9705f4667bb936468fefc79733c08d8, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    hdrKeys: []
+    bakeTimestamp:
+      first: 0
+      second: 0
+  - clip: {fileID: 8300000, guid: 18a513cb1e0ab914ba3c10536a442ad9, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    hdrKeys: []
+    bakeTimestamp:
+      first: 0
+      second: 0
+  - clip: {fileID: 8300000, guid: afad89b2b6e3b444aaba1785b8ba7dec, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    hdrKeys: []
+    bakeTimestamp:
+      first: 0
+      second: 0
+  PlaybackMode: 0
+  HDR: 0
+  Loudness: {x: 50, y: 50}
+  Volume: {x: 1, y: 1}
+  Pitch: {x: 1, y: 1}
+  Loops: 0
+  Priority: 128
+  BypassEffects: 0
+  MaxInstances: 10
+  FadeInTime: 0
+  FadeOutTime: 0
+  Spatialization: 2
+  Spread: 0
+  Pan2D: 0
+  Falloff: 0
+  MaxDistance: 10
+  MinDistance: 2
+  DopplerLevel: 0
+  ProximityLimit: 0
+  ProximityRange: 10

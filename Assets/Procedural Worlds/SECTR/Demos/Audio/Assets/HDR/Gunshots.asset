@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53b6803754c30d4fafeac19b23db57b, type: 3}
+  m_Name: Gunshots
+  m_EditorClassIdentifier: 
+  template: {fileID: 0}
+  bus: {fileID: 11400000, guid: fdce15b11a02f294f9990dc14eb53bab, type: 2}
+  AudioClips:
+  - clip: {fileID: 8300000, guid: 61a1bc678f65d55439f7dfc349420a94, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    bakeTimestamp:
+      first: 207749120
+      second: 65535
+    HDRCurve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -14.1851559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -14.1851559
+        inSlope: -7.34008503
+        outSlope: -7.34008503
+        tangentMode: 0
+      - time: 2
+        value: -28.8653259
+        inSlope: -14.6801701
+        outSlope: -14.6801701
+        tangentMode: 0
+      - time: 3
+        value: -28.8653259
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  - clip: {fileID: 8300000, guid: 5c48eda917e87584ca8a60ee6a19239b, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    bakeTimestamp:
+      first: 1695154176
+      second: 65535
+    HDRCurve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -14.3816328
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -14.3816328
+        inSlope: -6.28258562
+        outSlope: -6.28258562
+        tangentMode: 0
+      - time: 2
+        value: -26.946804
+        inSlope: -12.5651712
+        outSlope: -12.5651712
+        tangentMode: 0
+      - time: 3
+        value: -26.946804
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  - clip: {fileID: 8300000, guid: 12f23ac8a1b81b049b68927256b4a566, type: 3}
+    playedInShuffle: 0
+    volume: 1
+    bakeTimestamp:
+      first: 207749120
+      second: 65535
+    HDRCurve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -14.2537298
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -14.2537298
+        inSlope: -4.54178762
+        outSlope: -4.54178762
+        tangentMode: 0
+      - time: 2
+        value: -23.3373051
+        inSlope: -11.5993824
+        outSlope: -11.5993824
+        tangentMode: 0
+      - time: 3
+        value: -37.4524956
+        inSlope: -14.0432615
+        outSlope: -14.0432615
+        tangentMode: 0
+      - time: 4
+        value: -51.4238281
+        inSlope: -13.9713326
+        outSlope: -13.9713326
+        tangentMode: 0
+      - time: 5
+        value: -51.4238281
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  PlaybackMode: 0
+  HDR: 1
+  Loudness: {x: 60, y: 60}
+  Volume: {x: 1, y: 1}
+  Pitch: {x: 1, y: 1}
+  Loops: 0
+  Priority: 128
+  BypassEffects: 0
+  MaxInstances: 10
+  FadeInTime: 0
+  FadeOutTime: 0
+  Spatialization: 2
+  Spread: 0
+  Pan2D: 0
+  Falloff: 0
+  MaxDistance: 100
+  MinDistance: 10
+  DopplerLevel: 0
+  ProximityLimit: 0
+  ProximityRange: 10
+  OcclusionScale: 1
+  PlayProbability: 1
+  Delay: {x: 0, y: 0}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e53b6803754c30d4fafeac19b23db57b
+labels:
+- Audio
+- HDR
+- Occlusion
+- Mixing
+- Sector
+- Portal
+- Sound
+- Zone
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

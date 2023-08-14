@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53b6803754c30d4fafeac19b23db57b, type: 3}
+  m_Name: SpookyOneShot
+  m_EditorClassIdentifier: 
+  template: {fileID: 0}
+  bus: {fileID: 11400000, guid: 72ad5bd38cd707843bf3bdc34f427fdc, type: 2}
+  AudioClips:
+  - clip: {fileID: 8300000, guid: 340a12085c396244e84da615474d8f5a, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: 151502b2ebcf2114d95d8f9e8516d8ec, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: 356579ab7202b8e45b27a89d4185da87, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: 52ee9863b0bca914d9bf0cff3440bae6, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: 43ca82c84dd2ef9459039fddd2a4bd2d, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  PlaybackMode: 0
+  HDR: 0
+  Loudness: {x: 50, y: 50}
+  Volume: {x: 1, y: 1}
+  Pitch: {x: 1, y: 1}
+  Loops: 0
+  Priority: 128
+  BypassEffects: 0
+  MaxInstances: 10
+  FadeInTime: 1
+  FadeOutTime: 1
+  Spatialization: 1
+  Spread: 0
+  Pan2D: 0
+  Falloff: 0
+  MaxDistance: 100
+  MinDistance: 10
+  DopplerLevel: 1
+  ProximityLimit: 0
+  ProximityRange: 10

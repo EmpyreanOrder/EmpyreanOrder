@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: c7c992c531a18de47b8856dc4878666b
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackDoorFrame
+    100002: BackLeftPiller
+    100004: BackLeftWall
+    100006: BackRightPiller
+    100008: BackRightWall
+    100010: Ceiling
+    100012: ChamferBox
+    100014: Floor
+    100016: FrontDoorFrame
+    100018: FrontLeftPiller
+    100020: FrontLeftWall
+    100022: FrontRightPiller
+    100024: FrontRightWall
+    100026: //RootNode
+    100028: b_vertslide
+    100030: b_vertslide 1
+    100032: b_vertslide_base
+    100034: center_doordisc
+    100036: center_doordisc 1
+    100038: centerdisc_base
+    100040: door_top
+    100042: doorRoot
+    100044: doorRoot1
+    100046: lb_doordisc
+    100048: lb_doordisc 1
+    100050: lb_doordisc_base
+    100052: lt_doordisc
+    100054: lt_doordisc 1
+    100056: lt_doordisc_base
+    100058: rb_doordisc
+    100060: rb_doordisc 1
+    100062: rb_doordisc_base
+    100064: rt_doordisc
+    100066: rt_doordisc 1
+    100068: rt_doordisc_base
+    100070: sectr_a
+    100072: sectr_b
+    100074: slideleft
+    100076: slideleft1_base
+    100078: slideleft2
+    100080: slideleft2 1
+    100082: slideleft2 2
+    100084: slideleft2_base
+    100086: slideright1
+    100088: slideright1 1
+    100090: slideright1_base
+    100092: SlideRight2
+    100094: SlideRight2 1
+    100096: slideright2_base
+    100098: t_vertslide
+    100100: t_vertslide_base
+    100102: FrontDoorFrame1
+    100104: DoorFrame
+    100106: DoorFrame1
+    100108: polySurface1
+    100110: polySurface10
+    100112: polySurface11
+    100114: polySurface12
+    100116: polySurface13
+    100118: polySurface14
+    100120: polySurface15
+    100122: polySurface16
+    100124: polySurface17
+    100126: polySurface18
+    100128: polySurface19
+    100130: polySurface2
+    100132: polySurface20
+    100134: polySurface21
+    100136: polySurface22
+    100138: polySurface23
+    100140: polySurface24
+    100142: polySurface25
+    100144: polySurface26
+    100146: polySurface27
+    100148: polySurface28
+    100150: polySurface29
+    100152: polySurface3
+    100154: polySurface30
+    100156: polySurface31
+    100158: polySurface32
+    100160: polySurface33
+    100162: polySurface34
+    100164: polySurface35
+    100166: polySurface36
+    100168: polySurface4
+    100170: polySurface5
+    100172: polySurface6
+    100174: polySurface7
+    100176: polySurface8
+    100178: polySurface9
+    100180: transform1
+    100182: transform2
+    100184: Floor1
+    100186: Collision2
+    100188: Collision1
+    100190: Camera
+    100192: Lamp
+    400000: BackDoorFrame
+    400002: BackLeftPiller
+    400004: BackLeftWall
+    400006: BackRightPiller
+    400008: BackRightWall
+    400010: Ceiling
+    400012: ChamferBox
+    400014: Floor
+    400016: FrontDoorFrame
+    400018: FrontLeftPiller
+    400020: FrontLeftWall
+    400022: FrontRightPiller
+    400024: FrontRightWall
+    400026: //RootNode
+    400028: b_vertslide
+    400030: b_vertslide 1
+    400032: b_vertslide_base
+    400034: center_doordisc
+    400036: center_doordisc 1
+    400038: centerdisc_base
+    400040: door_top
+    400042: doorRoot
+    400044: doorRoot1
+    400046: lb_doordisc
+    400048: lb_doordisc 1
+    400050: lb_doordisc_base
+    400052: lt_doordisc
+    400054: lt_doordisc 1
+    400056: lt_doordisc_base
+    400058: rb_doordisc
+    400060: rb_doordisc 1
+    400062: rb_doordisc_base
+    400064: rt_doordisc
+    400066: rt_doordisc 1
+    400068: rt_doordisc_base
+    400070: sectr_a
+    400072: sectr_b
+    400074: slideleft
+    400076: slideleft1_base
+    400078: slideleft2
+    400080: slideleft2 1
+    400082: slideleft2 2
+    400084: slideleft2_base
+    400086: slideright1
+    400088: slideright1 1
+    400090: slideright1_base
+    400092: SlideRight2
+    400094: SlideRight2 1
+    400096: slideright2_base
+    400098: t_vertslide
+    400100: t_vertslide_base
+    400102: FrontDoorFrame1
+    400104: DoorFrame
+    400106: DoorFrame1
+    400108: polySurface1
+    400110: polySurface10
+    400112: polySurface11
+    400114: polySurface12
+    400116: polySurface13
+    400118: polySurface14
+    400120: polySurface15
+    400122: polySurface16
+    400124: polySurface17
+    400126: polySurface18
+    400128: polySurface19
+    400130: polySurface2
+    400132: polySurface20
+    400134: polySurface21
+    400136: polySurface22
+    400138: polySurface23
+    400140: polySurface24
+    400142: polySurface25
+    400144: polySurface26
+    400146: polySurface27
+    400148: polySurface28
+    400150: polySurface29
+    400152: polySurface3
+    400154: polySurface30
+    400156: polySurface31
+    400158: polySurface32
+    400160: polySurface33
+    400162: polySurface34
+    400164: polySurface35
+    400166: polySurface36
+    400168: polySurface4
+    400170: polySurface5
+    400172: polySurface6
+    400174: polySurface7
+    400176: polySurface8
+    400178: polySurface9
+    400180: transform1
+    400182: transform2
+    400184: Floor1
+    400186: Collision2
+    400188: Collision1
+    400190: Camera
+    400192: Lamp
+    2300000: BackDoorFrame
+    2300002: BackLeftPiller
+    2300004: BackLeftWall
+    2300006: BackRightPiller
+    2300008: BackRightWall
+    2300010: Ceiling
+    2300012: ChamferBox
+    2300014: Floor
+    2300016: FrontDoorFrame
+    2300018: FrontLeftPiller
+    2300020: FrontLeftWall
+    2300022: FrontRightPiller
+    2300024: FrontRightWall
+    2300026: b_vertslide 1
+    2300028: center_doordisc 1
+    2300030: door_top
+    2300032: doorRoot1
+    2300034: lb_doordisc 1
+    2300036: lt_doordisc 1
+    2300038: rb_doordisc 1
+    2300040: rt_doordisc 1
+    2300042: sectr_a
+    2300044: sectr_b
+    2300046: slideleft
+    2300048: slideleft2 2
+    2300050: slideright1 1
+    2300052: SlideRight2 1
+    2300054: FrontDoorFrame1
+    2300056: DoorFrame
+    2300058: DoorFrame1
+    2300060: polySurface1
+    2300062: polySurface10
+    2300064: polySurface11
+    2300066: polySurface12
+    2300068: polySurface13
+    2300070: polySurface14
+    2300072: polySurface15
+    2300074: polySurface16
+    2300076: polySurface17
+    2300078: polySurface18
+    2300080: polySurface19
+    2300082: polySurface2
+    2300084: polySurface20
+    2300086: polySurface21
+    2300088: polySurface22
+    2300090: polySurface23
+    2300092: polySurface24
+    2300094: polySurface25
+    2300096: polySurface26
+    2300098: polySurface27
+    2300100: polySurface28
+    2300102: polySurface29
+    2300104: polySurface3
+    2300106: polySurface30
+    2300108: polySurface31
+    2300110: polySurface32
+    2300112: polySurface33
+    2300114: polySurface34
+    2300116: polySurface35
+    2300118: polySurface36
+    2300120: polySurface4
+    2300122: polySurface5
+    2300124: polySurface6
+    2300126: polySurface7
+    2300128: polySurface8
+    2300130: polySurface9
+    2300132: Floor1
+    2300134: Collision2
+    2300136: Collision1
+    3300000: BackDoorFrame
+    3300002: BackLeftPiller
+    3300004: BackLeftWall
+    3300006: BackRightPiller
+    3300008: BackRightWall
+    3300010: Ceiling
+    3300012: ChamferBox
+    3300014: Floor
+    3300016: FrontDoorFrame
+    3300018: FrontLeftPiller
+    3300020: FrontLeftWall
+    3300022: FrontRightPiller
+    3300024: FrontRightWall
+    3300026: b_vertslide 1
+    3300028: center_doordisc 1
+    3300030: door_top
+    3300032: doorRoot1
+    3300034: lb_doordisc 1
+    3300036: lt_doordisc 1
+    3300038: rb_doordisc 1
+    3300040: rt_doordisc 1
+    3300042: sectr_a
+    3300044: sectr_b
+    3300046: slideleft
+    3300048: slideleft2 2
+    3300050: slideright1 1
+    3300052: SlideRight2 1
+    3300054: FrontDoorFrame1
+    3300056: DoorFrame
+    3300058: DoorFrame1
+    3300060: polySurface1
+    3300062: polySurface10
+    3300064: polySurface11
+    3300066: polySurface12
+    3300068: polySurface13
+    3300070: polySurface14
+    3300072: polySurface15
+    3300074: polySurface16
+    3300076: polySurface17
+    3300078: polySurface18
+    3300080: polySurface19
+    3300082: polySurface2
+    3300084: polySurface20
+    3300086: polySurface21
+    3300088: polySurface22
+    3300090: polySurface23
+    3300092: polySurface24
+    3300094: polySurface25
+    3300096: polySurface26
+    3300098: polySurface27
+    3300100: polySurface28
+    3300102: polySurface29
+    3300104: polySurface3
+    3300106: polySurface30
+    3300108: polySurface31
+    3300110: polySurface32
+    3300112: polySurface33
+    3300114: polySurface34
+    3300116: polySurface35
+    3300118: polySurface36
+    3300120: polySurface4
+    3300122: polySurface5
+    3300124: polySurface6
+    3300126: polySurface7
+    3300128: polySurface8
+    3300130: polySurface9
+    3300132: Floor1
+    3300134: Collision2
+    3300136: Collision1
+    4300000: FrontRightPiller
+    4300002: FrontLeftPiller
+    4300004: ChamferBox
+    4300006: BackRightPiller
+    4300008: BackLeftPiller
+    4300010: Ceiling
+    4300012: FrontRightWall
+    4300014: Floor
+    4300016: BackLeftWall
+    4300018: FrontLeftWall
+    4300020: BackRightWall
+    4300022: BackDoorFrame
+    4300024: FrontDoorFrame
+    4300026: rb_doordisc
+    4300028: lb_doordisc
+    4300030: lt_doordisc
+    4300032: rt_doordisc
+    4300034: slideleft
+    4300036: SlideRight2
+    4300038: slideleft2
+    4300040: slideright1
+    4300042: center_doordisc
+    4300044: b_vertslide
+    4300046: sectr_b
+    4300048: sectr_a
+    4300050: door_top
+    4300052: doorRoot1
+    4300054: FrontDoorFrame1
+    4300056: DoorFrame
+    4300058: DoorFrame1
+    4300060: polySurface12
+    4300062: polySurface13
+    4300064: polySurface14
+    4300066: polySurface15
+    4300068: polySurface16
+    4300070: polySurface17
+    4300072: polySurface18
+    4300074: polySurface19
+    4300076: polySurface20
+    4300078: polySurface21
+    4300080: polySurface22
+    4300082: polySurface23
+    4300084: polySurface24
+    4300086: polySurface25
+    4300088: polySurface26
+    4300090: polySurface27
+    4300092: polySurface28
+    4300094: polySurface29
+    4300096: polySurface30
+    4300098: polySurface31
+    4300100: polySurface32
+    4300102: polySurface33
+    4300104: polySurface34
+    4300106: polySurface35
+    4300108: polySurface36
+    4300110: polySurface1
+    4300112: polySurface2
+    4300114: polySurface3
+    4300116: polySurface4
+    4300118: polySurface5
+    4300120: polySurface6
+    4300122: polySurface7
+    4300124: polySurface8
+    4300126: polySurface9
+    4300128: polySurface10
+    4300130: polySurface11
+    4300132: Floor1
+    4300134: Collision2
+    4300136: Collision1
+    6400000: BackLeftPiller
+    6400002: BackLeftWall
+    6400004: BackRightPiller
+    6400006: BackRightWall
+    6400008: Ceiling
+    6400010: DoorFrame
+    6400012: DoorFrame1
+    6400014: Floor
+    6400016: FrontLeftPiller
+    6400018: FrontLeftWall
+    6400020: FrontRightPiller
+    6400022: FrontRightWall
+    6400024: Collision2
+    6400026: polySurface10
+    6400028: polySurface11
+    6400030: polySurface12
+    6400032: polySurface2
+    6400034: polySurface3
+    6400036: polySurface4
+    6400038: polySurface5
+    6400040: polySurface6
+    6400042: polySurface7
+    6400044: polySurface8
+    6400046: polySurface9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

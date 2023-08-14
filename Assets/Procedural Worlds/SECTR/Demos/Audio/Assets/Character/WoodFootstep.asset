@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53b6803754c30d4fafeac19b23db57b, type: 3}
+  m_Name: WoodFootstep
+  m_EditorClassIdentifier: 
+  template: {fileID: 11400000, guid: 85b83c269fb24f3479424fa20627aea1, type: 2}
+  bus: {fileID: 11400000, guid: d6560a784e8494544a93200c418ed615, type: 2}
+  AudioClips:
+  - clip: {fileID: 8300000, guid: 77e4b32e5a8aefa4cb19991f7f96b11f, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: 7a6e526688586434c8c1f5ed6feb04b2, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: d223079300b5c5346a5a4aca8d10f452, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: 015c03eb7c88b894192ec558d80c22a9, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: a8b58c2fb4a228046a70ddc1ee72f421, type: 3}
+    playedInShuffle: 0
+    volume: 1
+  PlaybackMode: 0
+  HDR: 0
+  Loudness: {x: 50, y: 50}
+  Volume: {x: 1, y: 1}
+  Pitch: {x: .800000012, y: 1.20000005}
+  Loops: 0
+  Priority: 128
+  MaxInstances: 10
+  FadeInTime: 0
+  FadeOutTime: 0
+  Spatialization: 2
+  Spread: 0
+  Pan2D: 0
+  Falloff: 0
+  MaxDistance: 10
+  MinDistance: 4
+  DopplerLevel: 1
+  ProximityLimit: 0
+  ProximityRange: 10
