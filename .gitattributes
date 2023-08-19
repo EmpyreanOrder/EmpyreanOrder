@@ -12,6 +12,9 @@
 *.asset eol=lf -text
 *.meta merge=unityyamlmerge eol=lf
 *.controller merge=unityyamlmerge eol=lf
+*.mesh merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.cubemap merge=unityyamlmerge eol=lfxt
 ## git-lfs ##
 #Image
 *.jpg filter=lfs diff=lfs merge=lfs -text
@@ -46,7 +49,3 @@
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 *.lxo filter=lfs diff=lfs merge=lfs -text
-*.mesh filter=lfs diff=lfs merge=lfs -text
-*.prefab filter=lfs diff=lfs merge=lfs -text
-*.cubemap filter=lfs diff=lfs merge=lfs -text
-*.unity filter=lfs diff=lfs merge=lfs -text
